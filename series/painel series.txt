@@ -1,7 +1,23 @@
 <channels>
-	<!-- opicional -->    
+	<!-- opicional --> 
     <channel>
-        <name>[COLOR lime]�[/COLOR]Chuck 3 temporadavia [COLOR yellow]torrent[/COLOR]</name>
+        <name>[COLOR lime]�[/COLOR]Chuck 1 temporada via [COLOR yellow]torrent[/COLOR]</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%20chucky%201t.ep.1-8.xml</externallink>
+    </channel>
+
+    <channel>
+        <name>[COLOR lime]�[/COLOR]Chuck 2 temporada via [COLOR yellow]torrent[/COLOR]</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%20chucky%202t%2Cep.1-8.xml</externallink>
+    </channel>
+	
+    <channel>
+        <name>[COLOR lime]�[/COLOR]Chuck 3 temporada via [COLOR yellow]torrent[/COLOR]</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
