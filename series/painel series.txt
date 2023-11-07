@@ -13,17 +13,103 @@
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
-		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%20chucky%202t%2Cep.1-8.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%20chucky%201t.ep.1-8.xml</externallink>
     </channel>
 	
-    <channel>
+	<channel>
         <name>[COLOR lime]�[/COLOR]Chuck 3 temporada via [COLOR yellow]torrent[/COLOR]</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
-		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%20chucks.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%20chucky%201t.ep.1-8.xml</externallink>
     </channel>
 	
+    <channel>
+        <name>[COLOR lime]�[/COLOR]Twisted Metal 1 temporada via [COLOR yellow]torrent[/COLOR]</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/Companheiros%20de%20Viagem%201t.xml</externallink>
+    </channel>
+	
+    <channel>
+        <name>[COLOR lime]�[/COLOR]Gen V 1 temporada via [COLOR yellow]torrent[/COLOR]</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/Gen%20V%201t.xml</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]�[/COLOR]A Garota do Cigarro 1 temporada via [COLOR yellow]torrent[/COLOR]</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/a%20garota%20do%20cigarro%201t.xml</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]�[/COLOR]Toda Luz que Não Podemos Ver 1 temporada via [COLOR yellow]torrent[/COLOR]</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/Toda%20Luz%20que%20N%C3%A3o%20Podemos%20Ver%201t.xml</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]�[/COLOR]Doce Mistério 1 temporada via [COLOR yellow]torrent[/COLOR]</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/Doce%20Mist%C3%A9rio%201t.xml</externallink>
+    </channel>
 
+<channel>
+        <name>[COLOR lime]�[/COLOR]Goosebumps 1 temporada via [COLOR yellow]torrent[/COLOR]</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/Goosebumps%201t.xml</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]�[/COLOR]Uma Questão de Química 1 temporada via [COLOR yellow]torrent[/COLOR]</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/Uma%20Quest%C3%A3o%20de%20Qu%C3%ADmica%201t.xml</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]�[/COLOR]Companheiros de Viagem 1 temporada via [COLOR yellow]torrent[/COLOR]</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/Companheiros%20de%20Viagem%201t.xml</externallink>
+    </channel>
+
+    <channel>
+        <name>[COLOR lime]�[/COLOR]Loki 1 temporada via [COLOR yellow]torrent[/COLOR]</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/Loki%201t.xml</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]�[/COLOR]Loki 2 temporada via [COLOR yellow]torrent[/COLOR]</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/Loki%202t.xml</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]�[/COLOR]Companheiros de Viagem 1 temporada via [COLOR yellow]torrent[/COLOR]</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/Companheiros%20de%20Viagem%201t.xml</externallink>
+    </channel>
 
 </channels>
