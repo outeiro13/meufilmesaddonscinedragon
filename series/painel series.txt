@@ -168,5 +168,12 @@
 		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/Encontros%20Extraterrestres%20-%20Completa.xml</externallink>
     </channel>
 	
+	<channel>
+        <name>[COLOR lime]�[/COLOR]Espíritos na Escola - 1ª Temporada via [COLOR yellow]torrent[/COLOR]</name>
+        <thumbnail>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</thumbnail>
+        <fanart>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/Esp%C3%ADritos%20na%20Escola%20-%201%C2%AA%20Temporada.xml</externallink>
+    </channel>
 
 </channels>
