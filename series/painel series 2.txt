@@ -166,7 +166,15 @@
         <fanart>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</fanart>
 		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
 		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/Encontros%20Extraterrestres%20-%20Completa.xml</externallink>
-    </channel>
+    </channel> 
 	
+	<channel>
+        <name>[COLOR lime]�[/COLOR]Com Carinho, Kitty - 1ª Temporada Torrent Dublada [COLOR yellow]torrent[/COLOR]</name>
+        <thumbnail>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</thumbnail>
+        <fanart>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/Com%20Carinho%2C%20Kitty%20-%201%C2%AA%20Temporada.xml</externallink>
+    </channel> 
+
 
 </channels>
