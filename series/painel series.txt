@@ -1,171 +1,21 @@
 <channels>
 	<!-- opicional --> 
     <channel>
-        <name>[COLOR lime]�[/COLOR]Chuck 1 temporada via [COLOR yellow]torrent[/COLOR]</name>
+        <name>[COLOR lime]�[/COLOR]Series Dubladas via [COLOR yellow]torrent[/COLOR]</name>
         <thumbnail>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</thumbnail>
         <fanart>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</fanart>
 		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
-		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%20chucky%201t.ep.1-8.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/painel%20series%202.txt</externallink>
     </channel>
 
     <channel>
-        <name>[COLOR lime]�[/COLOR]Chuck 2 temporada via [COLOR yellow]torrent[/COLOR]</name>
+        <name>[COLOR lime]�[/COLOR]Series Lançamentos Legendadas via [COLOR yellow]torrent[/COLOR]</name>
         <thumbnail>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</thumbnail>
         <fanart>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</fanart>
 		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
-		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%20chucky%201t.ep.1-8.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%20lan%C3%A7amentos%20legendadas</externallink>
     </channel>
 	
-	<channel>
-        <name>[COLOR lime]�[/COLOR]Chuck 3 temporada via [COLOR yellow]torrent[/COLOR]</name>
-        <thumbnail>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</thumbnail>
-        <fanart>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</fanart>
-		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
-		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%20chucky%201t.ep.1-8.xml</externallink>
-    </channel>
-	
-    <channel>
-        <name>[COLOR lime]�[/COLOR]Twisted Metal 1 temporada via [COLOR yellow]torrent[/COLOR]</name>
-        <thumbnail>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</thumbnail>
-        <fanart>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</fanart>
-		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
-		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/Twisted%20Metal%201t.xml</externallink>
-    </channel>
-	
-    <channel>
-        <name>[COLOR lime]�[/COLOR]Gen V 1 temporada via [COLOR yellow]torrent[/COLOR]</name>
-        <thumbnail>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</thumbnail>
-        <fanart>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</fanart>
-		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
-		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/Gen%20V%201t.xml</externallink>
-    </channel>
-	
-	<channel>
-        <name>[COLOR lime]�[/COLOR]A Garota do Cigarro 1 temporada via [COLOR yellow]torrent[/COLOR]</name>
-        <thumbnail>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</thumbnail>
-        <fanart>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</fanart>
-		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
-		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/a%20garota%20do%20cigarro%201t.xml</externallink>
-    </channel>
-	
-	<channel>
-        <name>[COLOR lime]�[/COLOR]Toda Luz que Não Podemos Ver 1 temporada via [COLOR yellow]torrent[/COLOR]</name>
-        <thumbnail>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</thumbnail>
-        <fanart>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</fanart>
-		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
-		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/Toda%20Luz%20que%20N%C3%A3o%20Podemos%20Ver%201t.xml</externallink>
-    </channel>
-	
-	<channel>
-        <name>[COLOR lime]�[/COLOR]Doce Mistério 1 temporada via [COLOR yellow]torrent[/COLOR]</name>
-        <thumbnail>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</thumbnail>
-        <fanart>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</fanart>
-		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
-		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/Doce%20Mist%C3%A9rio%201t.xml</externallink>
-    </channel>
 
-<channel>
-        <name>[COLOR lime]�[/COLOR]Goosebumps 1 temporada via [COLOR yellow]torrent[/COLOR]</name>
-        <thumbnail>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</thumbnail>
-        <fanart>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</fanart>
-		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
-		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/Goosebumps%201t.xml</externallink>
-    </channel>
-	
-	<channel>
-        <name>[COLOR lime]�[/COLOR]Uma Questão de Química 1 temporada via [COLOR yellow]torrent[/COLOR]</name>
-        <thumbnail>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</thumbnail>
-        <fanart>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</fanart>
-		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
-		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/Uma%20Quest%C3%A3o%20de%20Qu%C3%ADmica%201t.xml</externallink>
-    </channel>
-	
-	<channel>
-        <name>[COLOR lime]�[/COLOR]Companheiros de Viagem 1 temporada via [COLOR yellow]torrent[/COLOR]</name>
-        <thumbnail>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</thumbnail>
-        <fanart>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</fanart>
-		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
-		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/Companheiros%20de%20Viagem%201t.xml</externallink>
-    </channel>
-
-    <channel>
-        <name>[COLOR lime]�[/COLOR]Loki 1 temporada via [COLOR yellow]torrent[/COLOR]</name>
-        <thumbnail>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</thumbnail>
-        <fanart>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</fanart>
-		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
-		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/Loki%201t.xml</externallink>
-    </channel>
-	
-	<channel>
-        <name>[COLOR lime]�[/COLOR]Loki 2 temporada via [COLOR yellow]torrent[/COLOR]</name>
-        <thumbnail>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</thumbnail>
-        <fanart>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</fanart>
-		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
-		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/Loki%202t.xml</externallink>
-    </channel>
-
-    <channel>
-        <name>[COLOR lime]�[/COLOR]A Vida no Nosso Planeta - 1ª Temporada via [COLOR yellow]torrent[/COLOR]</name>
-        <thumbnail>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</thumbnail>
-        <fanart>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</fanart>
-		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
-		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/A%20Vida%20no%20Nosso%20Planeta%20-%201t.xml</externallink>
-    </channel>
-	
-	<channel>
-        <name>[COLOR lime]�[/COLOR]A Queda da Casa de Usher - 1ª Temporada via [COLOR yellow]torrent[/COLOR]</name>
-        <thumbnail>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</thumbnail>
-        <fanart>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</fanart>
-		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
-		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/A%20Queda%20da%20Casa%20de%20Usher%20%201t.xml</externallink>
-    </channel>
-	
-	<channel>
-        <name>[COLOR lime]�[/COLOR]A Terapia, por Sebastian Fitzek - 1ª Temporada via [COLOR yellow]torrent[/COLOR]</name>
-        <thumbnail>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</thumbnail>
-        <fanart>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</fanart>
-		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
-		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/A%20Terapia%2C%20por%20Sebastian%20Fitzek%20-%201t.xml</externallink>
-    </channel>
-
-    <channel>
-        <name>[COLOR lime]�[/COLOR]A Criatura - 1ª Temporada via [COLOR yellow]torrent[/COLOR]</name>
-        <thumbnail>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</thumbnail>
-        <fanart>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</fanart>
-		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
-		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/A%20Criatura%20-%201t.xml</externallink>
-    </channel>
-	
-	<channel>
-        <name>[COLOR lime]�[/COLOR]Bodies - 1ª Temporada via [COLOR yellow]torrent[/COLOR]</name>
-        <thumbnail>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</thumbnail>
-        <fanart>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</fanart>
-		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
-		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/Bodies%20-%201t.xml</externallink>
-    </channel>
-	
-	<channel>
-        <name>[COLOR lime]�[/COLOR]One Piece - 1ª Temporada Live Action via [COLOR yellow]torrent[/COLOR]</name>
-        <thumbnail>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</thumbnail>
-        <fanart>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</fanart>
-		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
-		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/One%20Piece%20-%201t.xml</externallink>
-    </channel>
-	
-    <channel>
-        <name>[COLOR lime]�[/COLOR]Encontros Extraterrestres - Completa via [COLOR yellow]torrent[/COLOR]</name>
-        <thumbnail>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</thumbnail>
-        <fanart>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</fanart>
-		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
-		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/Encontros%20Extraterrestres%20-%20Completa.xml</externallink>
-    </channel>
-	
-	<channel>
-        <name>[COLOR lime]�[/COLOR]Espíritos na Escola - 1ª Temporada via [COLOR yellow]torrent[/COLOR]</name>
-        <thumbnail>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</thumbnail>
-        <fanart>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</fanart>
-		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
-		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/Esp%C3%ADritos%20na%20Escola%20-%201%C2%AA%20Temporada.xml</externallink>
-    </channel>
 
 </channels>
