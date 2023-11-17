@@ -156,16 +156,16 @@
 	
 	<channel>
         <name>[COLOR lime]�[/COLOR]Bodies - 1ª Temporada via [COLOR yellow]torrent[/COLOR]</name>
-        <thumbnail>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</thumbnail>
-        <fanart>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</fanart>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7sDRMbZC5zvbE4UMjm9cw7KSj9u.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7sDRMbZC5zvbE4UMjm9cw7KSj9u.jpg</fanart>
 		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
 		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/Bodies%20-%201t.xml</externallink>
     </channel>
 	
 	<channel>
         <name>[COLOR lime]�[/COLOR]One Piece - 1ª Temporada Live Action via [COLOR yellow]torrent[/COLOR]</name>
-        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7sDRMbZC5zvbE4UMjm9cw7KSj9u.jpg</thumbnail>
-        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7sDRMbZC5zvbE4UMjm9cw7KSj9u.jpg</fanart>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aesLt9fsKSA6KCgGxA60VVxjtLk.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aesLt9fsKSA6KCgGxA60VVxjtLk.jpg</fanart>
 		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
 		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/One%20Piece%20-%201t.xml</externallink>
     </channel>
