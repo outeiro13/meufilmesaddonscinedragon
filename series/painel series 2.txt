@@ -1,6 +1,14 @@
 <channels>
 	<!-- opicional --> 
-	
+<item>
+<title>Scott Pilgrim - A Série - 1ª Temporada Torrent Dublado</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JWU7D5WQNXWMYGDZQPISAI3Q7QA3I24J&dn=VAMOSTORRENT.COM.-MAGNET-LINK.MKV.Scott%20Pilgrim%20-%20A%20S%C3%A9rie%20S01%202023%20WEB-DL%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+<thumbnail>https://gratistorrent.com/poster/2023/11/scott-pilgrim-a-serie-1-temporada-torrent-dublado-download-2023-4k.jpg</thumbnail>
+<genre>Ação / Animação / Aventura</genre>
+<fanart>https://gratistorrent.com/poster/2023/11/scott-pilgrim-a-serie-1-temporada-torrent-dublado-download-2023-4k.jpg</fanart>
+<info>Scott Pilgrim: A Série completa é uma série animada da Netflix baseada nos quadrinhos de Bryan Lee O’Malley e no filme Scott Pilgrim Contra o Mundo (2010), que acompanha a jornada do jovem Scott Pilgrim para derrotar os ex-namorados da garota que gosta para conquistar seu coração. Contando com a dublagem do elenco original, o anime trará os atores Michael Cera (Scott Pilgrim), Mary Elizabeth Winstead (Ramona Flowers), Satya Bhabha (Matthew Patel), Kieran Culkin (Wallace Wells), Chris Evans (Lucas Lee), Anna Kendrick (Stacey Pilgrim), Brie Larson (Envy Adams), Alison Pill (Kim Pine), Aubrey Plaza (Julie Powers), Brandon Routh (Todd Ingram), Jason Schwartzman (Gideon Graves), Johnny Simmons (Young Neil), Mark Webber (Stephen Stills), Mae Whitman (Roxie), Ellen Wong (Knives Chau) e outros a serem anunciados.</info>
+</item>
+
 	<channel>
         <name>[COLOR lime]�[/COLOR]DNA DO CRIME 1ª Temporada Torrent (2023) WEB-DL 1080p Nacional [COLOR yellow]torrent[/COLOR]</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cqg7OXDPSWSCsfAs9BuBp0r7kO3.jpg</thumbnail>
