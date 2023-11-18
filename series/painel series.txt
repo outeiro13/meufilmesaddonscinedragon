@@ -15,13 +15,6 @@
 		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
 		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%20lan%C3%A7amentos%20legendadas</externallink>
     </channel>
-<channel>
-        <name>[COLOR lime]�[/COLOR]Scott Pilgrim - A Série - 1ª Temporada Torrent Dublado [COLOR yellow]torrent[/COLOR]</name>
-        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cqg7OXDPSWSCsfAs9BuBp0r7kO3.jpg</thumbnail>
-        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cqg7OXDPSWSCsfAs9BuBp0r7kO3.jpg</fanart>
-		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
-		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/DNA%20DO%20CRIME%201%C2%AA%20Temporada.xml</externallink>
-    </channel>	
-
+<channel>	
 
 </channels>
