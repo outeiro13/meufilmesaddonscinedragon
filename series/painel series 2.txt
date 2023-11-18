@@ -1,6 +1,5 @@
 <channels>
 	<!-- opicional --> 
-</item>
 
 <channel>
         <name>[COLOR lime]�[/COLOR]Scott Pilgrim - A Série - 1ª Temporada Torrent Dublado [COLOR yellow]torrent[/COLOR]</name>
