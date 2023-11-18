@@ -3,8 +3,8 @@
 	
 	<channel>
         <name>[COLOR lime]�[/COLOR]Scott Pilgrim - A Série - 1ª Temporada Torrent Dublado [COLOR yellow]torrent[/COLOR]</name>
-        <thumbnail>https://https://gratistorrent.com/poster/2023/11/scott-pilgrim-a-serie-1-temporada-torrent-dublado-download-2023-4k.jpg</thumbnail>
-        <fanart>https://https://gratistorrent.com/poster/2023/11/scott-pilgrim-a-serie-1-temporada-torrent-dublado-download-2023-4k.jpg</fanart>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cqg7OXDPSWSCsfAs9BuBp0r7kO3.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cqg7OXDPSWSCsfAs9BuBp0r7kO3.jpg</fanart>
 		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
 		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/DNA%20DO%20CRIME%201%C2%AA%20Temporada.xml</externallink>
     </channel>
