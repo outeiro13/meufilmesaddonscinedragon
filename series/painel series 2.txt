@@ -1,7 +1,7 @@
-</channels>
+<channels>
 	<!-- opicional --> 
 	
-<channel>
+</channel>
         <name>[COLOR lime]�[/COLOR]Scott Pilgrim - A Série - 1ª Temporada Torrent (2023) Dublado [COLOR yellow]torrent[/COLOR]</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cqg7OXDPSWSCsfAs9BuBp0r7kO3.jpg</thumbnail>
         <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cqg7OXDPSWSCsfAs9BuBp0r7kO3.jpg</fanart>
