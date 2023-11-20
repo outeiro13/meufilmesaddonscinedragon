@@ -1,7 +1,7 @@
 <channels>
 	<!-- opicional --> 
     <channel>
-        <name>[COLOR lime]�[/COLOR]Series Dubladas via [COLOR yellow]torrent[/COLOR]</name>
+        <name>[COLOR lime]�[/COLOR]Series Lançamentos 2023 Dubladas via [COLOR yellow]torrent[/COLOR]</name>
         <thumbnail>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</thumbnail>
         <fanart>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</fanart>
 		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
@@ -9,7 +9,7 @@
     </channel>
 
     <channel>
-        <name>[COLOR lime]�[/COLOR]Series Lançamentos Legendadas via [COLOR yellow]torrent[/COLOR]</name>
+        <name>[COLOR lime]�[/COLOR]Series Lançamentos 2023 Legendadas via [COLOR yellow]torrent[/COLOR]</name>
         <thumbnail>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</thumbnail>
         <fanart>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</fanart>
 		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
