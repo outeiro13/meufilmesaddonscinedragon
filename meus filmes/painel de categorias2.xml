@@ -1,12 +1,12 @@
-<channels>
+</channels>
 	<!-- opicional -->    
-</channel>
+<channel>
         <name>[COLOR lime]�[/COLOR] Filmes lancamentos(2023)via [COLOR yellow]torrent[/COLOR]</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
 		<externallink>https:// </externallink>
-    </channel>
+    <channel>
 	
 	<channel>
         <name>[COLOR lime]�[/COLOR] Filmes Raridades via [COLOR yellow]torrent[/COLOR]</name>
