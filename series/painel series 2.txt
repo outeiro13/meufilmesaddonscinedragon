@@ -1,6 +1,5 @@
    <channels>
 	<!-- opicional --> 
-	
 	<channel>
 	
         <name>[COLOR lime]�[/COLOR]Monarch - Legado de Monstros - 1ª Temporada Torrent Dublada / Dual Áudio 2023[COLOR yellow]torrent[/COLOR]</name>
