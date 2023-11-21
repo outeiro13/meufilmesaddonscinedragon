@@ -2,14 +2,6 @@
 	<!-- opicional --> 
       <item>
 
-<title>Monarch - Legado de Monstros - 1ª Temporada Torrent Dublada / Dual Áudio 2023</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9467109f62df8f161ba46440c56fe860e63f6cef&dn=VAMOSTORRENT.COM.-DUBLADO-DUAL-AUDIO-.Monarch-Legado.de.Monstros.S01E01-02.1080p.WEB.DUAL.5.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
-<thumbnail>https://gratistorrent.com/poster/2023/11/monarch-legado-de-monstros-1-temporada-torrent-dublado-download-2023-4k.jpg</thumbnail>
-<genre>Ação / Aventura / Ficção</genre>
-<fanart>https://gratistorrent.com/poster/2023/11/monarch-legado-de-monstros-1-temporada-torrent-dublado-download-2023-4k.jpg</fanart>
-<info>A Série é ambientada após a batalha entre Godzilla e os Titãs, revelando que os monstros são reais, segue a jornada de uma família para descobrir seus segredos enterrados e um legado que os liga ao Monarch.</info>
-</item>
-
       <channel>
         <name>[COLOR lime]�[/COLOR]Scott Pilgrim - A Série - 1ª Temporada Torrent (2023) Dublado [COLOR yellow]torrent[/COLOR]</name>
         <thumbnail>https://gratistorrent.com/poster/2023/11/scott-pilgrim-a-serie-1-temporada-torrent-dublado-download-2023-4k.jpg</thumbnail>
