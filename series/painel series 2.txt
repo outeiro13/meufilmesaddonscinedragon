@@ -1,5 +1,15 @@
    <channels>
 	<!-- opicional --> 
+	
+	<channel>
+	
+        <name>[COLOR lime]�[/COLOR]Planeta dos Abutres - 1ª Temporada Completa Torrent Dublado / Dual Áudio 2023[COLOR yellow]torrent[/COLOR]</name>
+        <thumbnail>https://gratistorrent.com/poster/2023/10/scavengers-reign-1-temporada-torrent-dublado-download-2023-4k.jpg</thumbnail>
+        <fanart>https://gratistorrent.com/poster/2023/10/scavengers-reign-1-temporada-torrent-dublado-download-2023-4k.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/Planeta%20dos%20Abutres%20-%201%C2%AA.xml</externallink>
+    </channel>
+	
 	<channel>
 	
         <name>[COLOR lime]�[/COLOR]Monarch - Legado de Monstros - 1ª Temporada Torrent Dublada / Dual Áudio 2023[COLOR yellow]torrent[/COLOR]</name>
