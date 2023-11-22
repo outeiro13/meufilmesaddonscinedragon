@@ -6,7 +6,7 @@
         <thumbnail>https://gratistorrent.com/poster/2023/11/monarch-legado-de-monstros-1-temporada-torrent-dublado-download-2023-4k.jpg</thumbnail>
         <fanart>https://gratistorrent.com/poster/2023/11/monarch-legado-de-monstros-1-temporada-torrent-dublado-download-2023-4k.jpg</fanart>
 		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
-		<externallink>https://raw.github.com/outeiro13/meufilmesaddonscinedragon/blob/main/series/Monarch%20-%20Legado%20de%20Monstros%20-%201</externallink>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/Monarch%20-%20Legado%20de%20Monstros%20-%201</externallink>
     </channel>
 	
    <channel>
