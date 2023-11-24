@@ -3,6 +3,15 @@
 	
 	<channel>
 	
+        <name>[COLOR lime]�[/COLOR]O Urso 2ª Temporada (2023) WEB-DL 1080p Dual Áudio[COLOR yellow]torrent[/COLOR]</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e75gHEv4115AURmW16jpU6ZtMuD.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e75gHEv4115AURmW16jpU6ZtMuD.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/O%20Urso%201%C2%AA%20T.xml</externallink>
+    </channel>
+	
+	<channel>
+	
         <name>[COLOR lime]�[/COLOR]A Mão do Eurico Torrent Nacional 2023[COLOR yellow]torrent[/COLOR]</name>
         <thumbnail>https://gratistorrent.com/poster/2023/11/a-mao-do-eurico-torrent-dublado-download-2023-4k.jpg</thumbnail>
         <fanart>https://gratistorrent.com/poster/2023/11/a-mao-do-eurico-torrent-dublado-download-2023-4k.jpg</fanart>
