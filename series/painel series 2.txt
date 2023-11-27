@@ -3,6 +3,15 @@
 	
 	<channel>
 	
+        <name>[COLOR lime]�[/COLOR]Academia de vampiros - 1ª Temporada Dublada / Dual Áudio 2023[COLOR yellow]torrent[/COLOR]</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eFSYVQPJ5LGDP72T3BWlprLuZHf.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eFSYVQPJ5LGDP72T3BWlprLuZHf.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/Academia%20de%20vampiros%20-%201%C2%AA%20.xml</externallink>
+    </channel>
+	
+	<channel>
+	
         <name>[COLOR lime]�[/COLOR]O Urso 2ª Temporada (2023) WEB-DL 1080p Dual Áudio[COLOR yellow]torrent[/COLOR]</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e75gHEv4115AURmW16jpU6ZtMuD.jpg</thumbnail>
         <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e75gHEv4115AURmW16jpU6ZtMuD.jpg</fanart>
