@@ -3,6 +3,15 @@
 	
 	<channel>
 	
+        <name>[COLOR lime]�[/COLOR]Doctor Who: A Imensidão Azul Dublada / Dual Áudio 2023[COLOR yellow]torrent[/COLOR]</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2I8aMfUvgRKQvEpBIQVKMbXgMsi.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2I8aMfUvgRKQvEpBIQVKMbXgMsi.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/Doctor%20Who%20A%20Imensid%C3%A3o%20Azul%201t</externallink>
+    </channel>
+	
+	<channel>
+	
         <name>[COLOR lime]�[/COLOR]Academia de vampiros - 1ª Temporada Dublada / Dual Áudio 2023[COLOR yellow]torrent[/COLOR]</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eFSYVQPJ5LGDP72T3BWlprLuZHf.jpg</thumbnail>
         <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eFSYVQPJ5LGDP72T3BWlprLuZHf.jpg</fanart>
