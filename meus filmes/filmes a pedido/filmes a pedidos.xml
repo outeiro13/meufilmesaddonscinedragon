@@ -1,11 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
-<pessoas>
 
-<nome>juninho</nome>
-<idade>120</idade> 
-<altura>180</altura>
-<peso>90</peso>
-
-</pessoas>
+<item>
+<title>Corpo em Evidência Dublado 1993</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8501473EFDFAF09CCFA94BED6D70C3A8D9AA2310&dn=Corpo%20em%20Evid%c3%aancia%20-%20</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bSpSIyAD7N6aPFuPUHyYD1dGg3U.jpg</thumbnail>
+<genre>Clássico / Drama / Suspense</genre>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bSpSIyAD7N6aPFuPUHyYD1dGg3U.jpg</fanart>
+<info>Um milionário é encontrado morto em sua cama, tendo ao lado uma fita de vídeo com imagens dele e sua amante (Madonna). As investigações se iniciam. A autópsia indica grande quantidade de cocaína em seu organismo. E seu testamento mostra que ele deixou US$ 8 milhões para a amante. Logo, ela é presa sob suspeita de ter cometido o crime. O julgamento começa, mas a moça usa todo seu charme para seduzir o advogado (Willem Dafoe), com quem tem um tórrido romance.</info>
+</item>
 
 </items>
