@@ -3,6 +3,15 @@
 	
 	<channel>
 	
+        <name>[COLOR lime]�[/COLOR]Yu Yu Hakusho - 1ª Temporada Dublada / Dual Áudio 2023[COLOR yellow]torrent[/COLOR]</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/t9WiCEnojzksL3crxiCt7HIda8p.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/t9WiCEnojzksL3crxiCt7HIda8p.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/Yu%20Yu%20Hakusho%20-%201%C2%AA%20Temporada</externallink>
+    </channel>
+	
+	<channel>
+	
         <name>[COLOR lime]�[/COLOR]Origem - 2ª Temporada Dublada / Dual Áudio 2023[COLOR yellow]torrent[/COLOR]</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kYf47t1tcSmhH714NTvSS8udIC9.jpg</thumbnail>
         <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kYf47t1tcSmhH714NTvSS8udIC9.jpg</fanart>
