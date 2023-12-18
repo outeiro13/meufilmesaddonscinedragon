@@ -3,7 +3,7 @@
 	
 		<channel>
 	
-        <name>[COLOR lime]�[/COLOR]The Mandalorian 3ª Temporada / Dual Áudio / 2023[COLOR yellow]torrent[/COLOR]</name>
+        <name>[COLOR lime]�[/COLOR]The Mandalorian 3ª Temporada / Legendada / 2023[COLOR yellow]torrent[/COLOR]</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mzzZKJ4fvwib8Fty1tv4Vtp9R0b.jpg</thumbnail>
         <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mzzZKJ4fvwib8Fty1tv4Vtp9R0b.jpg</fanart>
 		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
