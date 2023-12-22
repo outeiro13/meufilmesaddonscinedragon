@@ -1,7 +1,16 @@
    <channels>
 	<!-- opicional --> 
+				
+	<channel>
+	
+        <name>[COLOR lime]�[/COLOR]FBI Casos Reais 1ª Temporada Completa (2023)[COLOR yellow]torrent[/COLOR]</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5Vlyc2VqJTA0U4A4Sbq0juXc8Rm.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5Vlyc2VqJTA0U4A4Sbq0juXc8Rm.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/FBI%20Casos%20Reais%201%C2%AA%20Temporada%20Completa%20(2023)</externallink>
+    </channel>
 		
-		<channel>
+	<channel>
 	
         <name>[COLOR lime]�[/COLOR]Percy Jackson e os Olimpianos - 1ª Temporada Dublada / Dual Áudio 2023[COLOR yellow]torrent[/COLOR]</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5JvoA2C3pZkmBlK2i46ubpoOO6B.jpg</thumbnail>
@@ -10,7 +19,7 @@
 		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/Percy%20Jackson%20e%20os%20Olimpianos%20-%201%C2%AA%20T</externallink>
     </channel>
 	
-		<channel>
+	<channel>
 	
         <name>[COLOR lime]�[/COLOR]The Mandalorian 3ª Temporada / Dual Áudio / 2023[COLOR yellow]torrent[/COLOR]</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mzzZKJ4fvwib8Fty1tv4Vtp9R0b.jpg</thumbnail>
@@ -19,7 +28,7 @@
 		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/The%20Mandalorian%203%C2%AA%20T</externallink>
     </channel>
 		
-		<channel>
+	<channel>
 	
         <name>[COLOR lime]�[/COLOR]Reacher - 2ª Temporada Dublada / Dual Áudio 2023[COLOR yellow]torrent[/COLOR]</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xSmpdQy958XRtaQWBZLPrm4NVgp.jpg</thumbnail>
