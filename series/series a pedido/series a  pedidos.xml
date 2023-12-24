@@ -1,12 +1,107 @@
-<channels>
-	<!-- opicional -->    
-    <channel>
-        <name>[COLOR lime]�[/COLOR] Viagem ao Fundo do Mar 1 Temporada/ Dublada 1964[COLOR yellow]torrent[/COLOR]</name>
-        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
-        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
-		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
-		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%20a%20pedido/viagem%20ao%20fundo%20do%20mar.xml</externallink>
-    </channel>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items> 
 
+<item>
+<title>Outlander 1ª Temporada Completa (2014) Dublado</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:098975cea9bb432624110229e52b3ca8267036cb</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1orTLktf2J95T3Q0DYJ8xXlQD2U.jpg</thumbnail>
+<genre>Aventura, Drama, Fantasia, Romance</genre>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1orTLktf2J95T3Q0DYJ8xXlQD2U.jpg</fanart>
+<info>Durante a Segunda Guerra, uma enfermeira se depara diante de duas vidas e dois amores quando é levada 200 anos atrás. Segue a história de Claire Randall, uma enfermeira de combate casado desde 1945 que é misteriosamente levado de volta no tempo para 1743, onde ela é imediatamente atirado para um mundo desconhecido em que sua vida está ameaçada. Quando ela é forçada a casar com Jamie Fraser, um guerreiro escocês jovem cavalheiresco e romântico, um relacionamento apaixonado é inflamada que rasga o coração de Claire entre dois homens muito diferentes em duas vidas irreconciliáveis.</info>
+</item>
 
-</channels>
+<item>
+<title>Outlander 2ª Temporada Completa (2016) Dublado</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e48eb04209546d128496ba24a46d0dab2786a847</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iF0lktryfzB4vfakUcdGwABPPNw.jpg</thumbnail>
+<genre>Aventura, Drama, Fantasia, Romance</genre>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iF0lktryfzB4vfakUcdGwABPPNw.jpg</fanart>
+<info> Experimentando prazeres e perigos, Claire e Jamie desafiam as intrigas da corte francesa e embarcam em uma ousada jornada para mudar a história. Segue a história de Claire Randall, uma enfermeira de combate casado desde 1945 que é misteriosamente levado de volta no tempo para 1743, onde ela é imediatamente atirado para um mundo desconhecido em que sua vida está ameaçada. Quando ela é forçada a casar com Jamie Fraser, um guerreiro escocês jovem cavalheiresco e romântico, um relacionamento apaixonado é inflamada que rasga o coração de Claire entre dois homens muito diferentes em duas vidas irreconciliáveis.</info>
+</item>
+
+<item>
+<title>Outlander 3ª Temporada Completa (2017) Dublado</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:14f0ff9e11c5e4612fcd4a360aff0d094d5d436d</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eETpFn6jPGLJRSxuQpfiBCO9IGv.jpg</thumbnail>
+<genre>Aventura, Drama, Fantasia, Romance</genre>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eETpFn6jPGLJRSxuQpfiBCO9IGv.jpg</fanart>
+<info>Com séculos de separação, Claire e Jamie lutam para seguir com suas vidas enquanto são assombrados pelas lembranças de seu amor perdido. Segue a história de Claire Randall, uma enfermeira de combate casado desde 1945 que é misteriosamente levado de volta no tempo para 1743, onde ela é imediatamente atirado para um mundo desconhecido em que sua vida está ameaçada. Quando ela é forçada a casar com Jamie Fraser, um guerreiro escocês jovem cavalheiresco e romântico, um relacionamento apaixonado é inflamada que rasga o coração de Claire entre dois homens muito diferentes em duas vidas irreconciliáveis.</info>
+</item>
+
+<item>
+<title>Outlander 4ª Temporada Completa (2018) Dublado</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95f02519cfe5014fa9550bb31d80553ae018d408</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ioQ0o7dOU6AD8gKIHHPX0czqgSw.jpg</thumbnail>
+<genre>Aventura, Drama, Fantasia, Romance</genre>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ioQ0o7dOU6AD8gKIHHPX0czqgSw.jpg</fanart>
+<info>Segue a história de Claire Randall, uma enfermeira de combate casado desde 1945 que é misteriosamente levado de volta no tempo para 1743, onde ela é imediatamente atirado para um mundo desconhecido em que sua vida está ameaçada. Quando ela é forçada a casar com Jamie Fraser, um guerreiro escocês jovem cavalheiresco e romântico, um relacionamento apaixonado é inflamada que rasga o coração de Claire entre dois homens muito diferentes em duas vidas irreconciliáveis.</info>
+</item>
+
+<item>
+<title>Outlander 5ª Temporada Completa (2020) Dublado</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4d061fc380c385f9e20c589856b3943ae54dba74&dn=Outlander.S05.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2970%2Fannounce</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ajgReMwdQc5MCoKa7y9ORnGxj0j.jpg</thumbnail>
+<genre>Aventura, Drama, Fantasia, Romance</genre>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ajgReMwdQc5MCoKa7y9ORnGxj0j.jpg</fanart>
+<info>Com a proximidade da Revolução Americana, Jamie precisa escolher um lado. Claire promove um grande avanço da medicina. Brianna faz uma descoberta terrível. Claire Randall é uma enfermeira em combate em 1945. Ela é misteriosamente transportada através do tempo e mandada para 1743, e sua vida passa a correr riscos que ela desconhece. Forçada a se casar com Jamie Fraser, um cortês e nobre guerreiro escocês. Um relacionamento apaixonado se acende, e deixa o coração de Claire dividido entre dois homens completamente diferentes, em duas vidas que não podem ser conciliadas.</info>
+</item>
+
+<item>
+<title>Outlander 6ª Temporada Completa (2022) Dublado</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:de2bc9d1cc2a052d963e1a74d66f0b513d5bfff8&dn=Outlander.S06.BDRip.x265-ION265&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2970%2Fannounce</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1VNTHF3fPGYBv0IZN88IIoU23eO.jpg</thumbnail>
+<genre>Aventura, Drama, Fantasia, Romance</genre>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1VNTHF3fPGYBv0IZN88IIoU23eO.jpg</fanart>
+<info> Claire Randall é uma enfermeira em combate em 1945. Ela é misteriosamente transportada através do tempo e mandada para 1743, e sua vida passa a correr riscos que ela desconhece. Forçada a se casar com Jamie Fraser, um cortês e nobre guerreiro escocês. Um relacionamento apaixonado se acende, e deixa o coração de Claire dividido entre dois homens completamente diferentes, em duas vidas que não podem ser conciliadas.</info>
+</item>
+
+<item>
+<title>Outlander 7ª Temporada / Episódio 01 (2023) Dublado</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6D9BDDBAC75B7AA6B670D46E17AB31F3887BF819&dn=Outlander.S07E01.1080p.NF.WEB-DL.DDP5.1.Dual&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannouncemagnet:?xt=urn:btih:6D9BDDBAC75B7AA6B670D46E17AB31F3887BF819&dn=Outlander.S07E01.1080p.NF.WEB-DL.DDP5.1.Dual&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1VNTHF3fPGYBv0IZN88IIoU23eO.jpg</thumbnail>
+<genre>Aventura, Drama, Fantasia, Romance</genre>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1VNTHF3fPGYBv0IZN88IIoU23eO.jpg</fanart>
+<info> Claire Randall é uma enfermeira em combate em 1945. Ela é misteriosamente transportada através do tempo e mandada para 1743, e sua vida passa a correr riscos que ela desconhece. Forçada a se casar com Jamie Fraser, um cortês e nobre guerreiro escocês. Um relacionamento apaixonado se acende, e deixa o coração de Claire dividido entre dois homens completamente diferentes, em duas vidas que não podem ser conciliadas.</info>
+</item>
+<item>
+<title>Outlander 7ª Temporada / Episódio 02 Dublado 2023</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05D0DF62924CD19B031FE02711DB5BB0687BF2F6&dn=Outlander.S07E02.1080p.WEB.h264-EDITH%5BTGx%5D.DUAL&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1VNTHF3fPGYBv0IZN88IIoU23eO.jpg</thumbnail>
+<genre>Aventura, Drama, Fantasia, Romance</genre>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1VNTHF3fPGYBv0IZN88IIoU23eO.jpg</fanart>
+<info> Claire Randall é uma enfermeira em combate em 1945. Ela é misteriosamente transportada através do tempo e mandada para 1743, e sua vida passa a correr riscos que ela desconhece. Forçada a se casar com Jamie Fraser, um cortês e nobre guerreiro escocês. Um relacionamento apaixonado se acende, e deixa o coração de Claire dividido entre dois homens completamente diferentes, em duas vidas que não podem ser conciliadas.</info>
+</item>
+<item>
+<title>Outlander 7ª Temporada / Episódio 03 Dublado 2023</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E108D4930862E0AD084073461FE3D1E8FEDADED3&dn=Outlander.S07E03.1080p.WEB-DL.DUAL.%5BTDFHD1%5D&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1VNTHF3fPGYBv0IZN88IIoU23eO.jpg</thumbnail>
+<genre>Aventura, Drama, Fantasia, Romance</genre>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1VNTHF3fPGYBv0IZN88IIoU23eO.jpg</fanart>
+<info> Claire Randall é uma enfermeira em combate em 1945. Ela é misteriosamente transportada através do tempo e mandada para 1743, e sua vida passa a correr riscos que ela desconhece. Forçada a se casar com Jamie Fraser, um cortês e nobre guerreiro escocês. Um relacionamento apaixonado se acende, e deixa o coração de Claire dividido entre dois homens completamente diferentes, em duas vidas que não podem ser conciliadas.</info>
+</item>
+<item>
+<title>Outlander 7ª Temporada / Episódio 04/05 Dublado 2023</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5F1F979296F6F1C73E5633616C0BB34F00D22ED4&dn=Outlander.S07E04.05.WEB-DL.1080p.Dual.%5BTDFHD1%5D&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1VNTHF3fPGYBv0IZN88IIoU23eO.jpg</thumbnail>
+<genre>Aventura, Drama, Fantasia, Romance</genre>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1VNTHF3fPGYBv0IZN88IIoU23eO.jpg</fanart>
+<info> Claire Randall é uma enfermeira em combate em 1945. Ela é misteriosamente transportada através do tempo e mandada para 1743, e sua vida passa a correr riscos que ela desconhece. Forçada a se casar com Jamie Fraser, um cortês e nobre guerreiro escocês. Um relacionamento apaixonado se acende, e deixa o coração de Claire dividido entre dois homens completamente diferentes, em duas vidas que não podem ser conciliadas.</info>
+</item>
+<item>
+<title>Outlander 7ª Temporada / Episódio 06/07 Dublado 2023</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9AA379B2E281B05BD69E1B983DD6D404E82C44A2&dn=Outlander.S07E06-07.WEB-DL.1080p.DUAL.%5BTDFHD%5D&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1VNTHF3fPGYBv0IZN88IIoU23eO.jpg</thumbnail>
+<genre>Aventura, Drama, Fantasia, Romance</genre>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1VNTHF3fPGYBv0IZN88IIoU23eO.jpg</fanart>
+<info> Claire Randall é uma enfermeira em combate em 1945. Ela é misteriosamente transportada através do tempo e mandada para 1743, e sua vida passa a correr riscos que ela desconhece. Forçada a se casar com Jamie Fraser, um cortês e nobre guerreiro escocês. Um relacionamento apaixonado se acende, e deixa o coração de Claire dividido entre dois homens completamente diferentes, em duas vidas que não podem ser conciliadas.</info>
+</item>
+<item>
+<title>Outlander 7ª Temporada Completa / Episódio 08 Dublado 2023</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59230CAF5FA917BC3DB3455F0E79DB4AB8A253AD&dn=Outlander.S07E08.WEB-DL.1080p.DUAL.TDFHD&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1VNTHF3fPGYBv0IZN88IIoU23eO.jpg</thumbnail>
+<genre>Aventura, Drama, Fantasia, Romance</genre>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1VNTHF3fPGYBv0IZN88IIoU23eO.jpg</fanart>
+<info> Claire Randall é uma enfermeira em combate em 1945. Ela é misteriosamente transportada através do tempo e mandada para 1743, e sua vida passa a correr riscos que ela desconhece. Forçada a se casar com Jamie Fraser, um cortês e nobre guerreiro escocês. Um relacionamento apaixonado se acende, e deixa o coração de Claire dividido entre dois homens completamente diferentes, em duas vidas que não podem ser conciliadas.</info>
+</item>
+
+</items>
