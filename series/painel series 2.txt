@@ -1,6 +1,15 @@
    <channels>
 	<!-- opicional --> 
 	
+		<channel>
+	
+        <name>[COLOR lime]�[/COLOR]Assassinato no Fim do Mundo - 1ª Temporada - 01º AO 03º Episódio / 2023[COLOR yellow]torrent[/COLOR]</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wfbJwh9o41VnGPlpSDTbIDPmekw.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wfbJwh9o41VnGPlpSDTbIDPmekw.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/Assassinato%20no%20Fim%20do%20Mundo%20-%201%C2%AA%20T</externallink>
+    </channel>
+	
 	<channel>
 	
         <name>[COLOR lime]�[/COLOR]What If... - E se... - 2ª Temporada Dublado / Dual Áudio / 2023[COLOR yellow]torrent[/COLOR]</name>
