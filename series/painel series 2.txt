@@ -1,7 +1,16 @@
    <channels>
 	<!-- opicional --> 
 	
-		<channel>
+	<channel>
+	
+        <name>[COLOR lime]�[/COLOR]A Concierge Pokémon 1ª Temporada (2023)[COLOR yellow]torrent[/COLOR]</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ySSivX1z5n7ALFF0082sbsCasK2.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ySSivX1z5n7ALFF0082sbsCasK2.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/A%20Concierge%20Pok%C3%A9mon%201%C2%AA%20T</externallink>
+    </channel>
+		
+	<channel>
 	
         <name>[COLOR lime]�[/COLOR]Samurai de Olhos Azuis - 1ª Temporada Completa Dublado / Dual Áudio - 2023[COLOR yellow]torrent[/COLOR]</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/krl67Uz8J0ghm94AXzZrf2b8QSz.jpg</thumbnail>
