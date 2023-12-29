@@ -1,5 +1,15 @@
+
    <channels>
 	<!-- opicional --> 
+	
+		<channel>
+	
+        <name>[COLOR lime]�[/COLOR]La Casa de Papel: Berlim 1ª Temporada (2023)[COLOR yellow]torrent[/COLOR]</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2HpT5UUYdhWnMh4eXnbUnuL9nQX.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2HpT5UUYdhWnMh4eXnbUnuL9nQX.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/la%20casa%20d%20papel%20-%20Berlim%201%C2%AA%20T%20-%20Copia</externallink>
+    </channel>
 	
 	<channel>
 	
@@ -58,8 +68,8 @@
 	<channel>
 	
         <name>[COLOR lime]�[/COLOR]Percy Jackson e os Olimpianos - 1ª Temporada Dublada / Dual Áudio 2023[COLOR yellow]torrent[/COLOR]</name>
-        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fOfGPZx47Q458WPxH3jQHcItvao.jpg</thumbnail>
-        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fOfGPZx47Q458WPxH3jQHcItvao.jpg</fanart>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5JvoA2C3pZkmBlK2i46ubpoOO6B.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5JvoA2C3pZkmBlK2i46ubpoOO6B.jpg</fanart>
 		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
 		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/Percy%20Jackson%20e%20os%20Olimpianos%20-%201%C2%AA%20T</externallink>
     </channel>
