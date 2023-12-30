@@ -1,8 +1,16 @@
-
    <channels>
 	<!-- opicional --> 
 	
-		<channel>
+	<channel>
+	
+        <name>[COLOR lime]�[/COLOR]A Criatura de Gyeongseong 1ª Temporada (2023)[COLOR yellow]torrent[/COLOR]</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tbHf9E7VkI0uFOfwEtcPWNoMjN8.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tbHf9E7VkI0uFOfwEtcPWNoMjN8.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/A%20Criatura%20de%20Gyeongseong%201%C2%AA%20T</externallink>
+    </channel>
+		
+	<channel>
 	
         <name>[COLOR lime]�[/COLOR]La Casa de Papel: Berlim 1ª Temporada (2023)[COLOR yellow]torrent[/COLOR]</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2HpT5UUYdhWnMh4eXnbUnuL9nQX.jpg</thumbnail>
