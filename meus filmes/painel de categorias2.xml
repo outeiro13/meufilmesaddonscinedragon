@@ -1,6 +1,15 @@
 <channels>
 	<!-- opicional -->    
+    
     <channel>
+        <name>[COLOR lime]�[/COLOR] Filmes lancamentos(2024)via [COLOR yellow]torrent[/COLOR]</name>
+        <thumbnail>https://github.com/outeiro13/meufilmesaddonscinedragon/blob/main/banner%20addon/wallpaperbetter.jpg</thumbnail>
+        <fanart>https://github.com/outeiro13/meufilmesaddonscinedragon/blob/main/banner%20addon/wallpaperbetter.jpg</fanart>
+		<info>[COLOR red]! Atenção ![/COLOR] [COLOR yellow]Devido a falta de Seeds alguns filmes pode não fazer o Donwload por isso deixe sempre semeando.Um dia da caça outro do caçador.[/COLOR]</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/meus%20filmes/filmes%20lancamentos%202023.xml</externallink>
+    </channel>
+	
+	<channel>
         <name>[COLOR lime]�[/COLOR] Filmes lancamentos(2023)via [COLOR yellow]torrent[/COLOR]</name>
         <thumbnail>https://github.com/outeiro13/meufilmesaddonscinedragon/blob/main/banner%20addon/wallpaperbetter.jpg</thumbnail>
         <fanart>https://github.com/outeiro13/meufilmesaddonscinedragon/blob/main/banner%20addon/wallpaperbetter.jpg</fanart>
@@ -33,20 +42,12 @@
     </channel>
 	
 	
-	<channel>
+		<channel>
         <name>[COLOR lime]�[/COLOR]Shows Diversos [COLOR yellow]torrent[/COLOR]</name>
         <thumbnail>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</thumbnail>
         <fanart>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</fanart>
 		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
 		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/show%20diversos/Shows%20diversos.xml</externallink>
-    </channel>
-	
-	<channel>
-        <name>[COLOR lime]�[/COLOR]Area De Teste R.O</name>
-        <thumbnail>https://ia801901.us.archive.org/34/items/emManutencao/icones%20para%20cinedragon/Atencao%20area%20de%20teste.jpg</thumbnail>
-        <fanart>https://ia801901.us.archive.org/34/items/emManutencao/icones%20para%20cinedragon/Atencao%20area%20de%20teste.jpg</fanart>
-		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
-		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/area%20%20de%20teste/area%20de%20teste.xml</externallink>
     </channel>
 	
 	
