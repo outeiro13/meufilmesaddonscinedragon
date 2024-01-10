@@ -1,7 +1,15 @@
 <channels>
 	<!-- opicional --> 
    
-    <channel>
+        <channel>
+        <name>[COLOR lime]�[/COLOR]Eco Dublada / Dual Áudio - 1ª Temporada Completa Dublada Dual Áudio MKV 1080P - 2024</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qBslfbXIEGwMpwxvdvxQJXmHrgO.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qBslfbXIEGwMpwxvdvxQJXmHrgO.jpg</fanart>
+		<info>A Marvel Studios apresenta Eco, que mostra Maya Lopez enquanto ela é perseguida pelo império criminoso de Wilson Fisk. Quando sua jornada a leva para casa, ela deve confrontar sua própria família e seu legado.</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%202024/Eco%201%C2%AA%20Temporada%20Completa%20Dublada%202024</externallink>
+    </channel>
+	
+	<channel>
         <name>[COLOR lime]�[/COLOR]Irmãos Sun - 1ª Temporada Dublada / Dual Áudio 2024</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/420OaFiz3PtHBdrAqYZquVDYcsA.jpg</thumbnail>
         <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/420OaFiz3PtHBdrAqYZquVDYcsA.jpg</fanart>
