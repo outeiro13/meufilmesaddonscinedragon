@@ -1,7 +1,15 @@
 <channels>
 	<!-- opicional --> 
-   
+    
     <channel>
+        <name>[COLOR lime]�[/COLOR]Detective Forst 1ª Temporada - (2024)</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m2UGZGtVTsmVLlmw8D08kjiiqSN.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m2UGZGtVTsmVLlmw8D08kjiiqSN.jpg</fanart>
+		<info>Suspenso por usar métodos pouco convencionais, um detetive se une a uma jornalista para tentar resolver uma série de assassinatos violentos por conta própria.</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%202024/Detective%20Forst%201%C2%AA%20Temporada%202024</externallink>
+    </channel>
+	
+	<channel>
         <name>[COLOR lime]�[/COLOR]Power Book IV - Livro de poder / 2ª Temporada - (2024)</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yzL4Tqbw2JA9MCsHJWFC4xV1IYU.jpg</thumbnail>
         <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yzL4Tqbw2JA9MCsHJWFC4xV1IYU.jpg</fanart>
