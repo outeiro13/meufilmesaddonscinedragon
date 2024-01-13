@@ -2,6 +2,14 @@
 	<!-- opicional --> 
    
     <channel>
+        <name>[COLOR lime]�[/COLOR]Power Book IV - Livro de poder / 2ª Temporada - (2024)</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yzL4Tqbw2JA9MCsHJWFC4xV1IYU.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yzL4Tqbw2JA9MCsHJWFC4xV1IYU.jpg</fanart>
+		<info>Tommy Egan corta todos os laços e coloca Nova York em seu espelho retrovisor definitivamente quando chega a Chicago e se concentra em se tornar o maior traficante de drogas que a cidade de Chicago já viu.</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%202024/Power%20Book%20IV%20-%20Livro%20de%20poder%20%202%C2%AA%20Temporada%20-%202024</externallink>
+    </channel>
+	
+	<channel>
         <name>[COLOR lime]�[/COLOR]Ted 1ª Temporada (2024)</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cPn71YFDENH0JkWUezlsLyWmLfN.jpg</thumbnail>
         <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cPn71YFDENH0JkWUezlsLyWmLfN.jpg</fanart>
