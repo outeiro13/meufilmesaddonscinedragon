@@ -1,7 +1,15 @@
 <channels>
 	<!-- opicional --> 
-    
+   
     <channel>
+        <name>[COLOR lime]�[/COLOR]True Detective - Detetive De Verdade - 4ª Temporada Dublada / 01º EPISÓDIO - 2024</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/boiNEf3LBP1UtIq1ynCSa5MlaRn.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/boiNEf3LBP1UtIq1ynCSa5MlaRn.jpg</fanart>
+		<info>A série antológica acompanha em seus novos episódios o desaparecimento suspeito de oito cientistas numa estação de pesquisa e promete trazer novos segretos e cenas de tensão no gelo da cidade de Ennis, no Alasca. No elenco, Jodie Foster (O Silêncio dos Inocentes) e Kali Reis (Infiltrada: Golpe de Vingança) assumem a dupla de investigadoras protagonistas, enquanto Isa López assume a direção.</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%202024/True%20Detective%20-%204%C2%AA%20Temporada%20Dublada%201ep</externallink>
+    </channel>
+	
+	<channel>
         <name>[COLOR lime]�[/COLOR]Detective Forst 1ª Temporada - (2024)</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m2UGZGtVTsmVLlmw8D08kjiiqSN.jpg</thumbnail>
         <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m2UGZGtVTsmVLlmw8D08kjiiqSN.jpg</fanart>
