@@ -2,6 +2,14 @@
 	<!-- opicional --> 
    
     <channel>
+        <name>[COLOR lime]�[/COLOR]Miss Scarlet and the Duke - Senhorita Scarlet e o Duque - (2024)</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9pbxTckwvaTXMABenkcmO1VhQi8.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9pbxTckwvaTXMABenkcmO1VhQi8.jpg</fanart>
+		<info>Quando o pai de Eliza Scarlet morre, ele a deixa sem um tostão, mas ela resolve continuar sua agência de detetives. Para operar em um mundo dominado por homens, porém, ela precisa de um parceiro… um detetive conhecido como Duke. Eliza e The Duke iniciam um relacionamento incompatível e ardente enquanto se unem para resolver o crime nas profundezas mais sombrias da Londres de 1880.</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%202024/Miss%20Scarlet%20and%20the%20Duke%202024</externallink>
+    </channel>
+	
+	<channel>
         <name>[COLOR lime]�[/COLOR]True Detective - Detetive De Verdade - 4ª Temporada Dublada / 01º EPISÓDIO - 2024</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/boiNEf3LBP1UtIq1ynCSa5MlaRn.jpg</thumbnail>
         <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/boiNEf3LBP1UtIq1ynCSa5MlaRn.jpg</fanart>
@@ -79,8 +87,6 @@
         <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iZllgPmOXS5PadAs4mDp6JhQJod.jpg</fanart>
 		<info>Segue uma pequena cidade do Reino Unido chamada Sanctuary, onde a vida cotidiana é abalada por acusações de assassinato depois que um menino é encontrado morto em um acidente.</info>
 		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%202024/Sanctuary%20%20A%20Witch%E2%80%99s%20Tale%201%C2%AA%20Temporada%20-%20Epis%C3%B3dio%2001%20-%2002%202024</externallink>
-    </channel>
+    </channel>	
 	
-	
-
 </channels>
