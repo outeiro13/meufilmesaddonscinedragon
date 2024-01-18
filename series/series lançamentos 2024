@@ -1,5 +1,21 @@
 <channels>
 	<!-- opicional --> 
+ 
+   <channel>
+        <name>[COLOR lime]�[/COLOR]Ponto Final - 1ª Temporada Nacional - (2024)</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fJPJrBCGxYxqWh7AfStkuXVKMwo.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fJPJrBCGxYxqWh7AfStkuXVKMwo.jpg</fanart>
+		<info>Ponto Final é uma série produzida por Rodrigo Sant’Anna para a Netflix. Na comédia, Sandra (Roberta Rodrigues) e Ivan (Rodrigo Sant’Anna) são divorciados no papel, mas continuam vivendo sob o mesmo teto. Além de ainda viverem juntos, aos trancos e barrancos, o ex-casal ainda precisa se ver todo dia no emprego. Os dois trabalham como motoristas de transporte público e se esbarram ao longo do dia em um terminal de ônibus do Rio de Janeiro. Enquanto Sandra dirige um ônibus, Ivan é motorista de uma vã clandestina.</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%202024/Ponto%20Final%20-%201%C2%AA%20Temporada%20%20Nacional%202024</externallink>
+   </channel>
+ 
+   <channel>
+        <name>[COLOR lime]�[/COLOR]Miss Scarlet and the Duke - Senhorita Scarlet e o Duque - (2024)</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9pbxTckwvaTXMABenkcmO1VhQi8.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9pbxTckwvaTXMABenkcmO1VhQi8.jpg</fanart>
+		<info>Quando o pai de Eliza Scarlet morre, ele a deixa sem um tostão, mas ela resolve continuar sua agência de detetives. Para operar em um mundo dominado por homens, porém, ela precisa de um parceiro… um detetive conhecido como Duke. Eliza e The Duke iniciam um relacionamento incompatível e ardente enquanto se unem para resolver o crime nas profundezas mais sombrias da Londres de 1880.</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%202024/Miss%20Scarlet%20and%20the%20Duke%202024</externallink>
+    </channel>
 	
 	<channel>
         <name>[COLOR lime]�[/COLOR]True Detective - Detetive De Verdade - 4ª Temporada Dublada / 01º EPISÓDIO - 2024</name>
@@ -79,6 +95,8 @@
         <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iZllgPmOXS5PadAs4mDp6JhQJod.jpg</fanart>
 		<info>Segue uma pequena cidade do Reino Unido chamada Sanctuary, onde a vida cotidiana é abalada por acusações de assassinato depois que um menino é encontrado morto em um acidente.</info>
 		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%202024/Sanctuary%20%20A%20Witch%E2%80%99s%20Tale%201%C2%AA%20Temporada%20-%20Epis%C3%B3dio%2001%20-%2002%202024</externallink>
-    </channel>	
+    </channel>
 	
+	
+
 </channels>
