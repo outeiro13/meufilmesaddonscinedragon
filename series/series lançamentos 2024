@@ -1,6 +1,14 @@
 <channels>
 	<!-- opicional --> 
  
+    <channel>
+        <name>[COLOR lime]�[/COLOR]Zorro - 1ª Temporada - (2024)</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f0KIsKYKDSYMGFT8egU5l7IwE57.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f0KIsKYKDSYMGFT8egU5l7IwE57.jpg</fanart>
+		<info>Diego de la Vega retorna à Califórnia para vingar o assassinato de seu pai. Após assumir o título de Zorro, ele confronta o Governador, o líder malévolo da comunidade chinesa e de uma sociedade secreta, colocando o bem comum acima de tudo.</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%202024/Zorro%20-%201%C2%AA%20Temporada%20Legendada%202024</externallink>
+   </channel>
+
    <channel>
         <name>[COLOR lime]�[/COLOR]Ponto Final - 1ª Temporada Nacional - (2024)</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fJPJrBCGxYxqWh7AfStkuXVKMwo.jpg</thumbnail>
