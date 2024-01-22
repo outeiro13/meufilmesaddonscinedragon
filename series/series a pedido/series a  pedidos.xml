@@ -1,7 +1,16 @@
    <channels>
 	<!-- opicional --> 
 				
-		<channel>
+	<channel>
+	
+        <name>[COLOR lime]�[/COLOR]Game of Thrones 1ª até 8ª Temporada Completa Dublada / Dual Áudio[COLOR yellow]torrent[/COLOR]</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/l2ezB41chGDjXcKo24lseuXYtKP.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/l2ezB41chGDjXcKo24lseuXYtKP.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://github.com/outeiro13/meufilmesaddonscinedragon/blob/main/series/series%20a%20pedido/Game%20of%20Thrones%201%20at%C3%A9%208%20Temporada%20Completa%20Dublada%20%20%20Dual%20%C3%81udio</externallink>
+    </channel>
+	
+	<channel>
 	
         <name>[COLOR lime]�[/COLOR]Outlander Temporada Completa (2023)[COLOR yellow]torrent[/COLOR]</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1orTLktf2J95T3Q0DYJ8xXlQD2U.jpg</thumbnail>
