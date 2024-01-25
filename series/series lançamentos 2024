@@ -1,7 +1,15 @@
 <channels>
 	<!-- opicional --> 
  
-        <channel>
+    <channel>
+        <name>[COLOR lime]�[/COLOR]A Morte Entre Outros Mistérios 1ª Temporada - (2024)</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mGp8BMoSreVUL5wwsHTGox99YjL.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mGp8BMoSreVUL5wwsHTGox99YjL.jpg</fanart>
+		<info>Como você resolve um assassinato em um mundo pós-fato? Especialmente ao navegar pelo Mediterrâneo em um transatlântico cheio de ricos e poderosos. Todos a bordo estão escondendo alguma coisa… mas um deles é um assassino? É isso que o maior detetive do mundo, Rufus Cotesworth, e seu protegido pretendem descobrir. A verdade a todo custo.</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%202024/A%20Morte%20Entre%20Outros%20Mist%C3%A9rios%201%20Temporada%20ep.%201%202%203</externallink>
+   </channel>
+	
+	<channel>
         <name>[COLOR lime]�[/COLOR]O Último Caso do Sr. Monk Dublado - (2024)</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tcb2Oie9qumilFHY5nhl5X2f81r.jpg</thumbnail>
         <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tcb2Oie9qumilFHY5nhl5X2f81r.jpg</fanart>
