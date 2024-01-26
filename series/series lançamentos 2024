@@ -1,7 +1,15 @@
 <channels>
 	<!-- opicional --> 
  
-    <channel>
+   <channel>
+        <name>[COLOR lime]�[/COLOR]Griselda - 1ª Temporada - (2024)</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nhEtK1lJKb3kqBtDBDXynGr3hJL.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nhEtK1lJKb3kqBtDBDXynGr3hJL.jpg</fanart>
+		<info>Minissérie inspirada na vida da astuta e ambiciosa empresária Griselda Blanco, que criou um dos cartéis de tráfico mais lucrativos da história.</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%202024/Griselda%201t.%202024</externallink>
+   </channel>
+	
+	<channel>
         <name>[COLOR lime]�[/COLOR]A Morte Entre Outros Mistérios 1ª Temporada - (2024)</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mGp8BMoSreVUL5wwsHTGox99YjL.jpg</thumbnail>
         <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mGp8BMoSreVUL5wwsHTGox99YjL.jpg</fanart>
