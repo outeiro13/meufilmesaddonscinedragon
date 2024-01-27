@@ -2,6 +2,14 @@
 	<!-- opicional --> 
  
    <channel>
+        <name>[COLOR lime]�[/COLOR]Mestres do Universo - A Revolução - 1ª Temporada - (2024)</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6WYAYdPYwzQjAOnD6AD4E4OZfI3.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6WYAYdPYwzQjAOnD6AD4E4OZfI3.jpg</fanart>
+		<info>Temporada está em produção pela Netflix. 2ª temporada de Mestres do Universo: Salvando Eternia</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%202024/Mestres%20do%20Universo%20A%20Revolu%C3%A7%C3%A3o%201t.%202024</externallink>
+   </channel>  
+
+  <channel>
         <name>[COLOR lime]�[/COLOR]Griselda - 1ª Temporada - (2024)</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nhEtK1lJKb3kqBtDBDXynGr3hJL.jpg</thumbnail>
         <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nhEtK1lJKb3kqBtDBDXynGr3hJL.jpg</fanart>
