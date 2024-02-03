@@ -2,6 +2,14 @@
 	<!-- opicional --> 
 
    <channel>
+        <name>[COLOR lime]�[/COLOR]Sr. & Sra. Smith 1ª Temporada - (2024)</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kvJvGxsDLi3MmHzc9nregyJtOWY.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kvJvGxsDLi3MmHzc9nregyJtOWY.jpg</fanart>
+		<info>Baseada no popular filme estrelado por Brad Pitt e Angelina Jolie, Sr. e Sra. Smith é uma série de comédia, ação e espionagem original da Amazon Studios. A história narra a trajetória de John (Donald Glover) e Jane (Maya Erskine), dois desconhecidos que abandonaram suas identidades e antigas vidas para se tornarem parceiros, não só no casamento, mas também na espionagem. Associados por uma misteriosa agência de espiões, os dois são encaminhados para novas e perigosas missões. A cada nova missão, o relacionamento do casal também passa por profundas mudanças. Mas é quando a relação dos dois apresenta novos sentimentos eles precisam mostrar que não são apenas habilidosos nas missões, mas também capazes de salvar sua relação, já que o divórcio não é uma opção para dois assassinos profissionais.</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%202024/Sr.%20%26%20Sra.%20Smith%201%C2%AA%20Temporada%20%20(2024)</externallink>
+   </channel>
+
+   <channel>
         <name>[COLOR lime]�[/COLOR]Hazbin Hotel 1ª Temporada - (2024)</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rXojaQcxVUubPLSrFV8PD4xdjrs.jpg</thumbnail>
         <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rXojaQcxVUubPLSrFV8PD4xdjrs.jpg</fanart>
