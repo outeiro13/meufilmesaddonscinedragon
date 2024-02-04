@@ -2,6 +2,14 @@
 	<!-- opicional --> 
 
    <channel>
+        <name>[COLOR lime]�[/COLOR]Entre Estranhos 1ª Temporada Completa - Episódio 01 ao 10 - (2024))</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kjgM6baJMb4889MxHLwFAePowcb.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kjgM6baJMb4889MxHLwFAePowcb.jpg</fanart>
+		<info>Um suspense psicológico que se passa em Manhattan no verão de 1979, quando um jovem é preso por um crime chocante, e uma investigadora improvável deve solucionar o mistério por trás dele.</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%202024/Entre%20Estranhos%201%C2%AA%20Temporada%20Completa%202024</externallink>
+   </channel>
+   
+   <channel>
         <name>[COLOR lime]�[/COLOR]Sr. & Sra. Smith 1ª Temporada - (2024)</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kvJvGxsDLi3MmHzc9nregyJtOWY.jpg</thumbnail>
         <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kvJvGxsDLi3MmHzc9nregyJtOWY.jpg</fanart>
