@@ -1,7 +1,16 @@
 <channels>
 	<!-- opicional --> 
 
-    <channel>
+    
+	<channel>
+        <name>[COLOR lime]�[/COLOR]Um Dia (One Day) 1ª Temporada (2024)</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9QXmXBXlMoe8GgFij9vZpgJPWg1.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9QXmXBXlMoe8GgFij9vZpgJPWg1.jpg</fanart>
+		<info>Após passarem a noite de formatura juntos, Emma e Dexter seguem caminhos diferentes, mas suas vidas continuam interligadas. Baseada no livro de David Nicholls.</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%202024/Um%20Dia%20(One%20Day)%201%C2%AA%20Temporada</externallink>
+   </channel>
+	
+	<channel>
         <name>[COLOR lime]�[/COLOR]A Killer Paradox / Sarinja-ng-Nangam - 1ª Temporada Dublada / Dual Áudio - 2024</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yMx1rTwsP9Q6S1sFKZrXMYwJEdM.jpg</thumbnail>
         <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yMx1rTwsP9Q6S1sFKZrXMYwJEdM.jpg</fanart>
