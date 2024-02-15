@@ -1,7 +1,14 @@
 <channels>
 	<!-- opicional --> 
 
-    
+    <channel>
+        <name>[COLOR lime]�[/COLOR]Bom Dia, Verônica - 3ª Temporada Nacional - 2024</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sxzqAJ9yp7FbZAfSjDF4Ioiruqi.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sxzqAJ9yp7FbZAfSjDF4Ioiruqi.jpg</fanart>
+		<info>Verônica Torres (Tainá Müller) trabalha como escrivã na delegacia de Homicídios de São Paulo, onde vive uma rotina burocrática e pouco dinâmica dentro do sistema. Casada e mãe de dois filhos, ela se vê diante do abismo quando presencia um suicídio que acaba por despertar nela dolorosas feridas do passado. Na mesma semana, recebe a ligação anônima de uma mulher desesperada clamando por sua vida. Baseada no romance homônimo de Raphael Montes e Ilana Casoy (originalmente lançado sob o pseudônimo Andrea Killmore). </info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%202024/Bom%20Dia%2C%20Ver%C3%B4nica%20-%203%C2%AA%20Temporada%20%20Nacional</externallink>
+   </channel>
+	
 	<channel>
         <name>[COLOR lime]�[/COLOR]The Town Doctor 1ª Temporada - (2024)</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wFR883EIKf58gf3JZetSmLWbv7m.jpg</thumbnail>
