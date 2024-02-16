@@ -1,0 +1,31 @@
+<channels>
+	<!-- Painel filmes diretos --> 
+   <channel>
+        <name>[COLOR yellow][B][I](Necessario ter resolve player instalado)[/I][/B]</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z9e7eJX3u8NTzT6rO0fu4ikJOcp.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z9e7eJX3u8NTzT6rO0fu4ikJOcp.jpg</fanart>
+		<info>Anos depois de se aposentar da incrível vida ninja, uma família problemática precisa voltar à ativa para combater uma série de ameaças.</info>
+		<externallink>https://teste</externallink>
+   </channel>
+
+
+    <channel>
+        <name>[COLOR lime]�[/COLOR][COLOR yellow][B][I] Filmes a pedido[/I][/B]</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z9e7eJX3u8NTzT6rO0fu4ikJOcp.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z9e7eJX3u8NTzT6rO0fu4ikJOcp.jpg</fanart>
+		<info>Anos depois de se aposentar da incrível vida ninja, uma família problemática precisa voltar à ativa para combater uma série de ameaças.</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%202024/House%20of%20Ninjas%20-%201%C2%AA%20Temporada</externallink>
+   </channel>   
+
+   <channel>
+        <name>[COLOR lime]�[/COLOR][COLOR yellow][B][I] Filmes Raros[/I][/B]</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sxzqAJ9yp7FbZAfSjDF4Ioiruqi.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sxzqAJ9yp7FbZAfSjDF4Ioiruqi.jpg</fanart>
+		<info></info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%202024/Bom%20Dia%2C%20Ver%C3%B4nica%20-%203%C2%AA%20Temporada%20%20Nacional</externallink>
+   </channel>
+	
+	
+	
+
+</channels>
