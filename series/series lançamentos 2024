@@ -2,6 +2,14 @@
 	<!-- opicional --> 
 
     <channel>
+        <name>[COLOR lime]�[/COLOR]Avatar - O Último Mestre do Ar - 1ª Temporada Dublada / Dual Áudio 2024</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gZ1eeUytoEWfl6T5Nuo6QmxOwcM.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gZ1eeUytoEWfl6T5Nuo6QmxOwcM.jpg</fanart>
+		<info>Um garoto conhecido como o Avatar precisa dominar os quatro poderes elementares para salvar um mundo em guerra e enfrentar um inimigo implacável.</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%202024/Avatar%20-%20O%20%C3%9Altimo%20Mestre%20do%20Ar%20-%201%C2%AA%20Temporada%202024</externallink>
+   </channel> 
+	
+	<channel>
         <name>[COLOR lime]�[/COLOR]A Família Stallone - 2ª Temporada (2024)</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hwdgvw8H459HVxE6htcrEUTQzlS.jpg</thumbnail>
         <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hwdgvw8H459HVxE6htcrEUTQzlS.jpg</fanart>
