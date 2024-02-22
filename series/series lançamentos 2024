@@ -2,6 +2,14 @@
 	<!-- opicional --> 
 
     <channel>
+        <name>[COLOR lime]�[/COLOR]A Família Stallone - 2ª Temporada (2024)</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hwdgvw8H459HVxE6htcrEUTQzlS.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hwdgvw8H459HVxE6htcrEUTQzlS.jpg</fanart>
+		<info>Super astro da ação, indicado ao Oscar e Ícone, Sylvester Stallone em seu papel mais importante: a Paternidade.</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%202024/A%20Fam%C3%ADlia%20Stallone%20-%202%C2%AA%20Temporada%20(2024)</externallink>
+   </channel> 
+	
+	<channel>
         <name>[COLOR lime]�[/COLOR]Constellation - Constelação 1ª Temporada (2024)</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nfEeRzbjl5OC6loVnaQir4GX7ju.jpg</thumbnail>
         <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nfEeRzbjl5OC6loVnaQir4GX7ju.jpg</fanart>
