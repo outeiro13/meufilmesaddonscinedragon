@@ -2,6 +2,14 @@
 	<!-- opicional --> 
 
     <channel>
+        <name>[COLOR lime]�[/COLOR]Xógum - A Gloriosa Saga do Japão - 1ª Temporada (2024)</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oMsQZYbBwbpr3UOU6YXSOkLv6kE.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oMsQZYbBwbpr3UOU6YXSOkLv6kE.jpg</fanart>
+		<info>Ambientada no Japão de 1600, o Senhor Yoshii Toranaga está lutando pela sua vida à medida que seus inimigos no Conselho dos Regentes se unem contra ele, quando um navio europeu misterioso é encontrado encalhado em um vilarejo de pescadores próximo.</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%202024/X%C3%B3gum%20-%20A%20Gloriosa%20Saga%20do%20Jap%C3%A3o%20-%201%C2%AA%20Temporada%20(2024)</externallink>
+   </channel> 
+	
+	<channel>
         <name>[COLOR lime]�[/COLOR]Avatar - O Último Mestre do Ar - 1ª Temporada Dublada / Dual Áudio 2024</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gZ1eeUytoEWfl6T5Nuo6QmxOwcM.jpg</thumbnail>
         <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gZ1eeUytoEWfl6T5Nuo6QmxOwcM.jpg</fanart>
