@@ -1,7 +1,15 @@
 <channels>
 	<!-- opicional --> 
 
-    <channel>
+       <channel>
+        <name>[COLOR lime]�[/COLOR]As Aventuras Inventadas de Dick Turpin - 1ª Temporada (2024)</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/Abw2GfxvCdzg2w2tp9rx6X8jH2l.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/Abw2GfxvCdzg2w2tp9rx6X8jH2l.jpg</fanart>
+		<info>O lendário bandoleiro Dick Turpin sai numa série de aventuras absurdas quando torna-se o relutante líder de uma gangue fora da lei—e tem a tarefa de superar o incrivelmente corrupto Jonathan Wilde.</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%202024/As%20Aventuras%20Inventadas%20de%20Dick%20Turpin%20-%201%C2%AA%20Temporada%202024</externallink>
+   </channel> 
+
+   <channel>
         <name>[COLOR lime]�[/COLOR]The New Look - 1ª Temporada Dublada</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aQBpF8VmEIgow41OL9h4nU4WN6v.jpg</thumbnail>
         <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aQBpF8VmEIgow41OL9h4nU4WN6v.jpg</fanart>
