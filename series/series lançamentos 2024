@@ -2,6 +2,14 @@
 	<!-- opicional --> 
 
     <channel>
+        <name>[COLOR lime]�[/COLOR]The New Look - 1ª Temporada Dublada</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aQBpF8VmEIgow41OL9h4nU4WN6v.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aQBpF8VmEIgow41OL9h4nU4WN6v.jpg</fanart>
+		<info>Esta série emocionante mostra a história chocante de como o ícone da moda, Christian Dior, e seus contemporâneos, como Coco Chanel, Pierre Balmain, e Cristóbal Balenciaga, navegaram pelos horrores da Segunda Guerra Mundial e deram início à moda moderna.</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%202024/The%20New%20Look%20-%201%C2%AA%20Temporada</externallink>
+   </channel> 
+	
+	<channel>
         <name>[COLOR lime]�[/COLOR]Xógum - A Gloriosa Saga do Japão - 1ª Temporada (2024)</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oMsQZYbBwbpr3UOU6YXSOkLv6kE.jpg</thumbnail>
         <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oMsQZYbBwbpr3UOU6YXSOkLv6kE.jpg</fanart>
