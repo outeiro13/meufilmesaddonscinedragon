@@ -2,6 +2,14 @@
 	<!-- opicional -->      
 
 <channel>
+        <name>[COLOR lime]�[/COLOR]O Regime - 1ª Temporada Dublada / Dual Áudio 2024</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cTlXj3oJcjwbXZsvVYyp8WngnZE.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cTlXj3oJcjwbXZsvVYyp8WngnZE.jpg</fanart>
+		<info>Retrata um ano dentro do palácio de uma chancelar europeia moderna, cujo regime autoritário está prestes a ruir.</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%202024/O%20Regime%20-%201%C2%AA%20Temporada%20Dublada%202024</externallink>
+   </channel> 
+	
+	<channel>
         <name>[COLOR lime]�[/COLOR]As Aventuras Inventadas de Dick Turpin - 1ª Temporada (2024)</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/Abw2GfxvCdzg2w2tp9rx6X8jH2l.jpg</thumbnail>
         <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/Abw2GfxvCdzg2w2tp9rx6X8jH2l.jpg</fanart>
