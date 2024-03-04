@@ -1,7 +1,15 @@
 <channels>
 	<!-- opicional --> 
 
-       <channel>
+    <channel>
+        <name>[COLOR lime]�[/COLOR]Franjinha e Milena - Em Busca da Ciência Nacional 2024</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tC3xl3EEd92Wz3dntK3pTjBb9vz.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tC3xl3EEd92Wz3dntK3pTjBb9vz.jpg</fanart>
+		<info>Milena, Franjinha e Bidu tentam viajar no tempo em uma divertida aventura científica. A cada episódio outros problemas surgem, e eles descobrem que a verdadeira viagem no tempo é a própria ciência!</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%202024/Franjinha%20e%20Milena%20-%20Em%20Busca%20da%20Ci%C3%AAncia%20Nacional</externallink>
+   </channel>       
+
+	  <channel>
         <name>[COLOR lime]�[/COLOR]As Aventuras Inventadas de Dick Turpin - 1ª Temporada (2024)</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/Abw2GfxvCdzg2w2tp9rx6X8jH2l.jpg</thumbnail>
         <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/Abw2GfxvCdzg2w2tp9rx6X8jH2l.jpg</fanart>
