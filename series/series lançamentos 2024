@@ -2,6 +2,14 @@
 	<!-- opicional -->      
 
 <channel>
+        <name>[COLOR lime]�[/COLOR]The Walking Dead - Daryl Dixon - 1ª Temporada Dublada - 2024</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kdM24KINoAVK9wjCtDJCkdffEpc.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kdM24KINoAVK9wjCtDJCkdffEpc.jpg</fanart>
+		<info>Daryl Dixon chega à costa da França e luta para entender como chegou lá e por quê. A série acompanha a sua jornada por uma França quebrada, mas resiliente, enquanto ele tenta encontrar um caminho de volta para casa. As conexões que ele forma no caminho, no entanto, complicam os seus planos.</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%202024/The%20Walking%20Dead%20-%20Daryl%20Dixon%202024</externallink>
+   </channel> 
+	
+	<channel>
         <name>[COLOR lime]�[/COLOR]O Regime - 1ª Temporada Dublada / Dual Áudio 2024</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cTlXj3oJcjwbXZsvVYyp8WngnZE.jpg</thumbnail>
         <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cTlXj3oJcjwbXZsvVYyp8WngnZE.jpg</fanart>
