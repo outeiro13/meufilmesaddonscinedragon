@@ -2,6 +2,14 @@
 	<!-- opicional -->      
 
 <channel>
+        <name>[COLOR lime]�[/COLOR]Entrevista Com o Vampiro - 1ª Temporada (2024)</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bqGvWXI2kV99ejEh25AUiAHGSk9.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bqGvWXI2kV99ejEh25AUiAHGSk9.jpg</fanart>
+		<info>A série será inspirada no llivro escrito por Anne Rice, que foi um enorme sucesso no filme de 1994, que teve no elenco grandes nomes do cinema internacional, como Tom Cruise, Brad Pitt e Kirsten Dunst. A série da AMC foi criada por Rolin Jones, que também é a mente responsável pelo roteiro. A produção executiva conta com Jones, Mark Johnson, a autora Anne Rice e o marido dela, Christopher Rice. Até o momento, apenas Sam Reid foi confirmado no elenco do seriado.</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%202024/Entrevista%20Com%20o%20Vampiro%20-%201%C2%AA%20Temporada%20(2024)</externallink>
+   </channel> 
+	
+	<channel>
         <name>[COLOR lime]�[/COLOR]The Walking Dead - Daryl Dixon - 1ª Temporada Dublada - 2024</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kdM24KINoAVK9wjCtDJCkdffEpc.jpg</thumbnail>
         <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kdM24KINoAVK9wjCtDJCkdffEpc.jpg</fanart>
