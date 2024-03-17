@@ -1,7 +1,23 @@
 <channels>
 	<!-- opicional -->      
 
-<channel>
+	<channel>
+        <name>[COLOR lime]�[/COLOR]História do Comunismo 1ª Temporada - 2024</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eWfqKtpFOwfKkjBz8Psqsv9KYkM.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eWfqKtpFOwfKkjBz8Psqsv9KYkM.jpg</fanart>
+		<info>Viajamos por 10 países, entrevistamos as maiores autoridades acadêmicas e científicas em comunismo, conversamos com testemunhas que viveram a realidade por trás da ideologia, e trouxemos o novo épico da Brasil Paralelo: o conteúdo mais completo já feito sobre a história do comunismo que pretende ser um marco definitivo na discussão sobre o tema, no Brasil e no mundo.</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%202024/Hist%C3%B3ria%20do%20Comunismo%201%C2%AA%20Temporada%20-%202024</externallink>
+   </channel> 
+	
+	<channel>
+        <name>[COLOR lime]�[/COLOR]Último Ato - 1ª Temporada - (2024)</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cLOsuWCyMexP2Mz2WLXx7ClfDPN.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cLOsuWCyMexP2Mz2WLXx7ClfDPN.jpg</fanart>
+		<info>Um thriller de conspiração sobre um dos crimes mais conhecidos, mas menos compreendidos da história. Esta é a surpreendente história da caçada a John Wilkes Booth após o assassinato de Abraham Lincoln— enquanto o destino do país está em jogo.</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%202024/%C3%9Altimo%20Ato%20-%201%C2%AA%20Temporada%20(2024)</externallink>
+   </channel> 
+	
+	<channel>
         <name>[COLOR lime]�[/COLOR]Entrevista Com o Vampiro - 1ª Temporada (2024)</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bqGvWXI2kV99ejEh25AUiAHGSk9.jpg</thumbnail>
         <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bqGvWXI2kV99ejEh25AUiAHGSk9.jpg</fanart>
