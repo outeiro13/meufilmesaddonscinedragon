@@ -2,6 +2,14 @@
 	<!-- opicional -->      
 
 <channel>
+        <name>[COLOR lime]�[/COLOR]X-Men ’97 1ª Temporada Legendada (2024)</name>
+        <thumbnail>ttps://www.themoviedb.org/t/p/w600_and_h900_bestv2/wifIJbZgM0X5HAieXGawEEG7vSO.jpg</thumbnail>
+        <fanart>ttps://www.themoviedb.org/t/p/w600_and_h900_bestv2/wifIJbZgM0X5HAieXGawEEG7vSO.jpg</fanart>
+		<info>Continuando de onde ‘X-Men’ parou, os X-Men estão em um período de transição, lutando com a perda do Professor X. E enquanto seu mundo está em um estado tenso de calma quando se trata de relações mutantes-humanos— todo mundo sabe que isso provavelmente é temporário.</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%202024/X-Men%20%E2%80%9997%201%C2%AA%20Temporada%20(2024)</externallink>
+   </channel> 
+		
+	<channel>
         <name>[COLOR lime]�[/COLOR]O Sinal Dublada / Dual Áudio 2024</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xVHQs2SjbcMy3kLabuWHbfWr5n6.jpg</thumbnail>
         <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xVHQs2SjbcMy3kLabuWHbfWr5n6.jpg</fanart>
@@ -17,7 +25,7 @@
 		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%202024/Hist%C3%B3ria%20do%20Comunismo%201%C2%AA%20Temporada%20-%202024</externallink>
    </channel> 
 	
-<channel>
+	<channel>
         <name>[COLOR lime]�[/COLOR]Último Ato - 1ª Temporada - (2024)</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cLOsuWCyMexP2Mz2WLXx7ClfDPN.jpg</thumbnail>
         <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cLOsuWCyMexP2Mz2WLXx7ClfDPN.jpg</fanart>
@@ -25,7 +33,7 @@
 		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%202024/%C3%9Altimo%20Ato%20-%201%C2%AA%20Temporada%20(2024)</externallink>
    </channel> 
 	
-<channel>
+	<channel>
         <name>[COLOR lime]�[/COLOR]Entrevista Com o Vampiro - 1ª Temporada (2024)</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bqGvWXI2kV99ejEh25AUiAHGSk9.jpg</thumbnail>
         <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bqGvWXI2kV99ejEh25AUiAHGSk9.jpg</fanart>
