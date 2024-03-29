@@ -1,6 +1,15 @@
    <channels>
-	<!-- opicional --> 
-				
+	<!-- opicional --> 			
+					
+<channel>
+	
+        <name>[COLOR lime]�[/COLOR]The Chosen - 1ª/2ª/3ª Temporada Dublada[COLOR yellow]torrent[/COLOR]</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wbCBwxwdXQam3e31e5F42IGxF99.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wbCBwxwdXQam3e31e5F42IGxF99.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%20a%20pedido/The%20Chosen</externallink>
+    </channel>
+	
 	<channel>
 	
         <name>[COLOR lime]�[/COLOR]Os Suburbanos S01[COLOR yellow]torrent[/COLOR]</name>
