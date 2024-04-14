@@ -3,8 +3,8 @@
    
     <channel>
         <name>[COLOR lime]�[/COLOR]Series Dubladas 2024 via [COLOR yellow]torrent[/COLOR]</name>
-        <thumbnail>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</thumbnail>
-        <fanart>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</fanart>
+        <thumbnail>https://ia600300.us.archive.org/14/items/ed-805a-23-bac-5-4bb-9-87c-2-01cb-50474822/_ed805a23-bac5-4bb9-87c2-01cb50474822.jpg</thumbnail>
+        <fanart>https://ia600300.us.archive.org/14/items/ed-805a-23-bac-5-4bb-9-87c-2-01cb-50474822/_ed805a23-bac5-4bb9-87c2-01cb50474822.jpg</fanart>
 		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
 		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%20lan%C3%A7amentos%202024</externallink>
     </channel>
