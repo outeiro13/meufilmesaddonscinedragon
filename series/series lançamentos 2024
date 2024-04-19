@@ -1,13 +1,5 @@
 <channels>
-	<!-- opicional -->      
-
-<channel>
-        <name>[COLOR lime]�[/COLOR]Expatriadas - 1ª Temporada Dublada / Dual Áudio 2024</name>
-        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8UNtcHmYkCmL6w9vBVuYEoI8axE.jpg</thumbnail>
-        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8UNtcHmYkCmL6w9vBVuYEoI8axE.jpg</fanart>
-		<info>Tendo como pano de fundo a complexidade dos moradores de Hong Kong, EXPATRIADAS retrata um grupo multifacetado de mulheres depois que um único encontro, desencadeia uma cadeia de eventos que alteram vidas, deixando todos navegando no intrincado equilíbrio entre culpa e responsabilidade.</info>
-		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%202024/Expatriadas%20-%201%C2%AA%20Temporada%202024</externallink>
-   </channel>
+	<!-- opicional --> 
 	
 	<channel>
         <name>[COLOR lime]�[/COLOR]O Simpatizante Dublada / Dual Áudio 2024</name>
