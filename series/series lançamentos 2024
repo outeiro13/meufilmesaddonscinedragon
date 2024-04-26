@@ -2,6 +2,14 @@
 	<!-- opicional -->      
 
 <channel>
+        <name>[COLOR lime]�[/COLOR]Garotos Detetives Mortos - 1ª Temporada (2024)</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pFxmYEj9aK7HjaDPvIVZPLIe3mW.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pFxmYEj9aK7HjaDPvIVZPLIe3mW.jpg</fanart>
+		<info>Dois fantasmas adolescentes colaboram com uma médium a deslindar mistérios para a sua clientela sobrenatural, mas uma bruxa poderosa vem complicar-lhes os planos.</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%202024/Garotos%20Detetives%20Mortos%20-%201%C2%AA%20Temporada%20(2024)</externallink>
+   </channel>
+	
+	<channel>
         <name>[COLOR lime]�[/COLOR]Knuckles 1ª Temporada (2024)</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fZJSBHJKNR7Xz3CiEsAawd7bbDh.jpg</thumbnail>
         <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fZJSBHJKNR7Xz3CiEsAawd7bbDh.jpg</fanart>
