@@ -1,7 +1,16 @@
 <channels>
 	<!-- opicional -->      
 
-<channel>
+	
+	<channel>
+        <name>[COLOR lime]�[/COLOR]Senna por Ayrton 1ª Temporada Nacional 2024</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sPBDaJWSGaiuc57oUGklfQR4Knr.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sPBDaJWSGaiuc57oUGklfQR4Knr.jpg</fanart>
+		<info>Nacional A série apresenta o próprio atleta contando a sua história, em primeira pessoa. O material foi retirado de 150 horas de entrevistas concedidas não apenas para a Globo, mas também para outros veículos.</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%202024/Senna%20por%20Ayrton%201%C2%AA%20Temporada%20Torrent%20Nacional</externallink>
+   </channel>
+	
+	<channel>
         <name>[COLOR lime]�[/COLOR]O Véu / The Veil - 1ª Temporada (2024)</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1XeQD7bO7ZOqgF8r4zJuD4hREzF.jpg</thumbnail>
         <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1XeQD7bO7ZOqgF8r4zJuD4hREzF.jpg</fanart>
