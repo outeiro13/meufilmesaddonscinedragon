@@ -2,6 +2,14 @@
 	<!-- opicional -->      
 
 <channel>
+        <name>[COLOR lime]�[/COLOR]O Véu / The Veil - 1ª Temporada (2024)</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1XeQD7bO7ZOqgF8r4zJuD4hREzF.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1XeQD7bO7ZOqgF8r4zJuD4hREzF.jpg</fanart>
+		<info>Duas mulheres jogam um jogo de verdades e mentiras no caminho de Istambul para Paris e Londres.</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%202024/O%20V%C3%A9u%20-%20The%20Veil%20-%201%C2%AA%20Temporada%202024</externallink>
+   </channel>
+	
+	<channel>
         <name>[COLOR lime]�[/COLOR]A Máquina do Destino - 1ª Temporada -  01º AO 10º EPISÓDIO(2024)</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/h87tsF7a8hIoBqQSQNXpFYS5Doo.jpg</thumbnail>
         <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/h87tsF7a8hIoBqQSQNXpFYS5Doo.jpg</fanart>
