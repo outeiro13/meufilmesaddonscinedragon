@@ -1,15 +1,23 @@
 <channels>
 	<!-- opicional -->      
 
-<channel>
-        <name>[COLOR lime]�[/COLOR]Star Wars - Histórias do Império - 1ª Temporada Torrent Dublado / Dual Áudio</name>
+	<channel>
+        <name>[COLOR lime]�[/COLOR]Matéria Escura (Dark Matter) 1ª Temporada (2024)</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mAbuZuS4CqlTI6lvWIxPRHppbVs.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mAbuZuS4CqlTI6lvWIxPRHppbVs.jpg</fanart>
+		<info>Jason Dessen é raptado para uma versão alternativa da sua vida. Para regressar à sua família verdadeira, Jason embarca numa viagem dolorosa para a salvar do inimigo mais terrível imaginável: ele mesmo.</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%202024/Mat%C3%A9ria%20Escura%20(Dark%20Matter)%201%C2%AA%20Temporada%20Torrent%20(2024)</externallink>
+   </channel>
+	
+	<channel>
+        <name>[COLOR lime]�[/COLOR]Star Wars - Histórias do Império - 1ª Temporada Torrent Dublado / Dual Áudio 2024</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vEe6PWm8xUuz8Xa0YitShR6p7LP.jpg</thumbnail>
         <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vEe6PWm8xUuz8Xa0YitShR6p7LP.jpg</fanart>
 		<info>A produção é uma jornada de seis episódios pelo temível Império Galáctico, ambientada em diferentes eras e acompanhada pelos olhos de duas guerreiras em caminhos divergentes. Após perder tudo, a jovem Morgan Elsbeth navega pelo mundo Imperial em expansão em busca de vingança, enquanto a ex-Jedi Barriss Offee faz o que deve para sobreviver em uma galáxia em rápida mudança. As escolhas que elas fazem definirão seus destinos.</info>
 		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%202024/Star%20Wars%20-%20Hist%C3%B3rias%20do%20Imp%C3%A9rio%20-%201%C2%AA%20Temporada%202024</externallink>
    </channel>
 	
-<channel>
+	<channel>
         <name>[COLOR lime]�[/COLOR]Um Homem por Inteiro - 1ª Temporada Dublada / Dual Áudio 2024</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b1HrnAAMM2ULLddjs2V4GtY7uh8.jpg</thumbnail>
         <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b1HrnAAMM2ULLddjs2V4GtY7uh8.jpg</fanart>
