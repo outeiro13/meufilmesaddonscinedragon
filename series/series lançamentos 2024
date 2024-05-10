@@ -2,6 +2,14 @@
 	<!-- opicional -->      
 
 	<channel>
+        <name>[COLOR lime]�[/COLOR]Bodkin 1ª Temporada Legendada (2024)</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fvpYJkQaeon5kmxioIPHFmgA2v5.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fvpYJkQaeon5kmxioIPHFmgA2v5.jpg</fanart>
+		<info>Uma equipe de podcasters começa a investigar desaparecimentos misteriosos em uma cidadezinha da Irlanda, cheia de segredos terríveis.</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%202024/Bodkin%201%C2%AA%20Temporada%20%20(2024)</externallink>
+   </channel>
+	
+	<channel>
         <name>[COLOR lime]�[/COLOR]Matéria Escura (Dark Matter) 1ª Temporada (2024)</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mAbuZuS4CqlTI6lvWIxPRHppbVs.jpg</thumbnail>
         <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mAbuZuS4CqlTI6lvWIxPRHppbVs.jpg</fanart>
