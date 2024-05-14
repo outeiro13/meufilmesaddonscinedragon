@@ -1,6 +1,14 @@
 <channels>
 	<!-- opicional -->      
 
+<channel>
+        <name>[COLOR lime]�[/COLOR]A Final - Caos em Wembley (2024)</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ogxXYMJvGQMClJOWQIFxmJ5JrQ6.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ogxXYMJvGQMClJOWQIFxmJ5JrQ6.jpg</fanart>
+		<info>A Final: Caos em Wembley vai falar sobre um dos momentos mais esperados para os torcedores ingleses, o Estádio de Wembley estava pronto para testemunhar a possível glória da seleção de Gareth Southgate em 11 de julho de 2021. A equipe havia inspirado o país ao chegar à final do Campeonato Europeu, oferecendo a promessa de uma vitória que poderia rivalizar com o triunfo de 1966. Contudo, o que começou como uma celebração extremamente animada, rapidamente se transformou em caos quando os torcedores, vindos de todos os cantos do país, invadiram com tosa sua fúria Wembley. Pessoas bêbada, usufruindo de drogas e uma multidão sem ingressos transformaram a euforia em tumulto. A Final: Caos em Wembley mergulha nessa reviravolta dramática, apresentando depoimentos em primeira mão e imagens impactantes capturadas por usuários. É a história de um dia que começou com esperança e terminou em desordem, deixando uma nação em choque diante da destruição causada por 6.000 torcedores de futebol descontrolados.</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%202024/A%20Final%20-%20Caos%20em%20Wembley%20(2024)</externallink>
+   </channel>
+	
 	<channel>
         <name>[COLOR lime]�[/COLOR]Bodkin 1ª Temporada Legendada (2024)</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fvpYJkQaeon5kmxioIPHFmgA2v5.jpg</thumbnail>
@@ -9,7 +17,7 @@
 		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%202024/Bodkin%201%C2%AA%20Temporada%20%20(2024)</externallink>
    </channel>
 	
-	<channel>
+<channel>
         <name>[COLOR lime]�[/COLOR]Matéria Escura (Dark Matter) 1ª Temporada (2024)</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mAbuZuS4CqlTI6lvWIxPRHppbVs.jpg</thumbnail>
         <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mAbuZuS4CqlTI6lvWIxPRHppbVs.jpg</fanart>
@@ -57,7 +65,7 @@
 		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%202024/A%20M%C3%A1quina%20do%20Destino%20-%201%C2%AA%20Temporada%202024</externallink>
    </channel>
 		
-	<channel>
+<channel>
         <name>[COLOR lime]�[/COLOR]Garotos Detetives Mortos - 1ª Temporada (2024)</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pFxmYEj9aK7HjaDPvIVZPLIe3mW.jpg</thumbnail>
         <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pFxmYEj9aK7HjaDPvIVZPLIe3mW.jpg</fanart>
@@ -137,7 +145,7 @@
 		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%202024/Parasyte%20-%20The%20Grey%20-%201%C2%AA%20Temporada%202024</externallink>
    </channel>
 	
-	<channel>
+<channel>
         <name>[COLOR lime]�[/COLOR]Rainha Vermelha - 1ª Temporada Dublada / Dual Áudio 2024</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gyhrej8aCwB6bGYodzrvAoxMYIZ.jpg</thumbnail>
         <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gyhrej8aCwB6bGYodzrvAoxMYIZ.jpg</fanart>
