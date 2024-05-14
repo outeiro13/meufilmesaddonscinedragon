@@ -1,7 +1,15 @@
 <channels>
 	<!-- opicional -->      
 
-<channel>
+	<channel>
+        <name>[COLOR lime]�[/COLOR]Entrevista com o Vampiro 2ª Temporada Torrent (2024)</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bERvgaWcySHr8mTrpScrbBAnGXh.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bERvgaWcySHr8mTrpScrbBAnGXh.jpg</fanart>
+		<info>No ano de 2022, o vampiro Louis de Pointe du Lac continua a história de sua vida para o renomado jornalista Daniel Molloy – sua passagem pela Paris do pós-guerra com a vampira Claudia. Em Dubai, Molloy descobre a verdade por trás da história de Louis.</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%202024/Entrevista%20com%20o%20Vampiro%202%C2%AA%20Temporada%20Torrent%20(2024)</externallink>
+   </channel>
+	
+	<channel>
         <name>[COLOR lime]�[/COLOR]A Final - Caos em Wembley (2024)</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ogxXYMJvGQMClJOWQIFxmJ5JrQ6.jpg</thumbnail>
         <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ogxXYMJvGQMClJOWQIFxmJ5JrQ6.jpg</fanart>
@@ -17,7 +25,7 @@
 		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%202024/Bodkin%201%C2%AA%20Temporada%20%20(2024)</externallink>
    </channel>
 	
-<channel>
+	<channel>
         <name>[COLOR lime]�[/COLOR]Matéria Escura (Dark Matter) 1ª Temporada (2024)</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mAbuZuS4CqlTI6lvWIxPRHppbVs.jpg</thumbnail>
         <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mAbuZuS4CqlTI6lvWIxPRHppbVs.jpg</fanart>
@@ -65,7 +73,7 @@
 		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%202024/A%20M%C3%A1quina%20do%20Destino%20-%201%C2%AA%20Temporada%202024</externallink>
    </channel>
 		
-<channel>
+	<channel>
         <name>[COLOR lime]�[/COLOR]Garotos Detetives Mortos - 1ª Temporada (2024)</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pFxmYEj9aK7HjaDPvIVZPLIe3mW.jpg</thumbnail>
         <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pFxmYEj9aK7HjaDPvIVZPLIe3mW.jpg</fanart>
@@ -145,7 +153,7 @@
 		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%202024/Parasyte%20-%20The%20Grey%20-%201%C2%AA%20Temporada%202024</externallink>
    </channel>
 	
-<channel>
+	<channel>
         <name>[COLOR lime]�[/COLOR]Rainha Vermelha - 1ª Temporada Dublada / Dual Áudio 2024</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gyhrej8aCwB6bGYodzrvAoxMYIZ.jpg</thumbnail>
         <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gyhrej8aCwB6bGYodzrvAoxMYIZ.jpg</fanart>
