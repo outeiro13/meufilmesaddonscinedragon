@@ -1,6 +1,16 @@
 <channels>
 	<!-- opicional -->      
 
+
+
+	<channel>
+        <name>[COLOR lime]�[/COLOR]Romário, O Cara (2024)</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/p3dgo8owxyBZIXiYBuQuS296pD9.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/p3dgo8owxyBZIXiYBuQuS296pD9.jpg</fanart>
+		<info>Das favelas do Rio de Janeiro ao estrelato mundial, a história de um dos maiores atacantes do futebol brasileiro.</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/series/series%202024/Rom%C3%A1rio%2C%20O%20Cara%20(2024)</externallink>
+   </channel>
+	
 	<channel>
         <name>[COLOR lime]�[/COLOR]The Big Cigar - A Fuga 1ª Temporada (2024)</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2p40gebB8gr7FqZtjCczdcMHltv.jpg</thumbnail>
